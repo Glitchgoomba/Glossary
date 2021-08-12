@@ -1,0 +1,651 @@
+﻿
+Pen Tester Glossary
+
+
+
+
+acceptable use policy – a set of wording to define an agreement between any user and the enterprise that owns the service, application or device being accessed. The agreement would usually define both the primary permitted and prohibited activities.
+
+access controls – the ability to manage and restrict entry or exit to a physical, virtual or digital area through the use of permissions. Permissions are usually assigned individually to a person, device or application service to ensure accountability and traceability of usage. The permissions can be secured using (i) physical tokens (something you have) for example a key card, (ii) secret information (something you know) such as a password or (iii) or biometric information – using part of the human body such as a fingerprint or eye scan to gain access (something you are). See also multi-factor authentication.
+
+access rights – the set of permissions granted to a user account to define if they can enter and use specific functions within a network, application, system or hardware device. Usually, these permissions are granted on the basis of least privilege.
+
+accountability – the basic security practice of ensuring that all critical assets and actions have clear ownership and traceability. See also single-point accountability.
+
+adaptive content inspection (ACI) – an advanced form of data loss prevention technology that allows the full set of any information being processed to be reviewed against a set of updatable rules, so that blocking, reporting, notification or other actions can be automatically applied. For example, a rule can be put in place so that if any set of 16 digit numbers (credit cards) are being sent in batches exceeding 50 from any user device, the action can be blocked and reported. Standard data loss prevention only reviews the main headers and tags, whereas this form of prevention performs a review of all the information content.
+
+adaptive defence – the use of agile techniques to rapidly learn and adjust cyber protection methods to help decrease the possibilities of a successful attack or to reduce the window of time between detection and incident counter-response. See also indicators of compromise (IOC).
+
+Advanced Encryption Standard (AES) – this is a symmetrical method of ciphering information from plain characters to and from a secret, encoded information. This standard was originally introduced as a successor to the Data Encryption Standard (DES) and Triple DES. See also encryption and symmetrical encryption.
+
+advanced persistent threats (APTs) – a term used to describe the tenacious and highly evolved set of tactics used by hackers to infiltrate networks through digital devices and then leave malicious software in place for as long as possible. The cyberattack lifecycle usually involves the attacker performing research & reconnaissance, preparing the most effective attack tools, getting an initial foothold into the network or target digital landscape, spreading the infection and adjusting the range of attack tools in place and then exploiting the position to maximum advantage. The purpose can be to steal, corrupt, extort and/or disrupt an organization for financial gain, brand damage or other political purposes. This form of sophisticated attack becomes harder and more costly to resolve, the further into the lifecycle the attackers are and the longer it has managed to already remain in place. A goal with this threat type is for the intruder to remain (persist) undetected for as long as possible in order to maximize on the opportunities of the intrusion – for example, to steal data over a long period of time. See also kill-chain.
+
+advanced threat defence (ATD) – very large organizations use a wider range of protective techniques to detect, deny, disrupt, degrade, deceive and contain any unauthorized attempts at entry into a digital landscape. For example, extending protection beyond anti-malware, encryption, and firewalls to include the use of network traffic analysis, payload analysis, network forensics, endpoint behaviour analysis and endpoint forensics.
+
+adware – any computer program (software) designed to render adverts to an end-user. This type of software can be considered a form of malware if (i) the advertising was not consented to by the user, (ii) is made difficult to uninstall or remove, or (iii) provides other covert malware functions. Some adware which are designed to be malicious act at a speed and frequency that slows down the system and ties up resources. Adware often includes code that tracks a user's personal information and passes it on to a third party. Having multiple adware slows down your computer significantly.
+
+all source intelligence – a term defined by the US National Institute for Cybersecurity Education (NICE) for gathering together threat intelligence and information across all appropriate internal and external sources for the purposes of gaining insights and implications into new and active potential threats.
+
+air gap –to use some form of physical separation to ensure that activities in one area cannot impact or infect activities in another. Used in the context of cybersecurity to describe physically and digitally isolating sensitive or infected systems so they have no possibility of interacting with any other systems and networks.
+
+alert status – an escalation flag that can be assigned to a security incident to indicate that it is unable to be managed inside allowable time limits or other acceptable tolerances that are defined.
+
+anti-malware – is a computer program designed to look for specific files and behaviours (signatures) that indicate the presence or the attempted installation of malicious software. If or when detected, the program seeks to isolate the attack (quarantine the malware), remove it, if it can, and also alert appropriate people to the attempt or to their presence.
+
+anti-spyware – a subset of anti-malware software that has the specific purpose of detecting, blocking or preventing malicious software used to illicitly monitor and steal information. See also spyware.
+
+anti-virus – the archaic predecessor of anti-malware that was used before the nature and types of malicious software had diversified.
+
+application – a collection of functions and instructions in electronic format (a software program) that resides across one or more digital devices, usually designed to create, modify, process, store, inspect and/or transmit specific types of data. For subversive applications, see malware.
+
+assessments – the evaluation of a target (for example an application, service, supplier) against specific goals, objectives or other criteria through the collection of information about it. Usually, this is achieved through an established and repeatable process involving discussion or responding to questions. The purpose is to understand how closely the target meets the intended criteria and to identify any gaps or deficiencies. An assessment is different from an audit because it does not necessarily check for evidence and does not need to be carried out by an objective third party.
+
+asset – any item (physical or digital) that has inherent value. For cybersecurity, information items that can be monetized (for example – intellectual property and sets of personal data) are regarded as high-value assets due to their potential resale or blackmail value.
+
+attack signature – a distinctive pattern of characteristics that can be identified to help understand and correct an attempt at unauthorized access or intrusion. See also indicators of compromise (IOC).
+
+attack surface – the sum of the potential exposure area that could be used to gain unauthorized entry to, or extraction of information. This will usually include perimeter network hardware (such as firewalls) and web servers (hardware that hosts internet-enabled applications). See also cyber defence points.
+
+attack vector – a path or means that could be used by an unauthorized party to gain access to a digital device, network or system.
+
+audits – the use of one or more independent examiners (auditors) to check if a target product, service and/or location is meeting the specific control standards required. This form of inspection requires that individual controls are tested to confirm their suitability and consistent usage. The outcomes from this type of event, including any gaps discovered and corrective actions required are always provided in a final report.
+
+availability – the assignment of a value to a set of information to indicate how much disruption or outage is considered acceptable to the owner. Often this is expressed or translated into a scale of time. Data with the highest possible availability rating would be required to be ready at all times (no downtime permitted), often through the use of a fully redundant failsafe. The value assigned to availability is used by the owner of an application or service to set the recovery time objective. See also integrity – a different but related term.
+
+B 
+
+backdoor –an unofficial method to access software or a device that bypasses the normal authentication requirements.
+
+backup –(i) the process of archiving a copy of something so that it can be restored following a disruption. (ii) having a redundant (secondary) capability to continue a process, service or application if the primary capability is disrupted.
+
+bashdoor – alternative name for the family of security bugs also known as shellshock. See entry for shellshock.
+
+behavior monitoring – a method of surveillance to check for actions or activities that may indicate rogue or undesirable intent.
+
+biometrics – the use of physical qualities and attributes as a form of identity authentication. Fingerprint scans, retina scans and facial recognition are all examples of biometric. As fast as new biometric options are created, the means to defeat them often follow. For this reason, biometrics is usually used only as a part of multi-factor authentication.
+
+bitcoin – a decentralized, virtual digital currency and payment system, based on a distributed, public ledger. The currency provides a high degree of transactional anonymity as balances and ledger entries are associated with private cryptographic keys and not with the individual or company that uses it (lose your key, lose your money). This has made it, along with other digital currencies a payment method of choice for illegal transactions, including making and receiving cyber blackmail payments.
+
+black-box penetration testing – is the term used to describe a situation where no advance information about the technical details of a computer program have been made available to those who are checking it for vulnerabilities. They are operating without any inside knowledge, so the term is used to indicate a lack of visibility inside the ‘box’ (program) they are checking.
+
+black hat – a person who engages in attempts to gain unauthorized access to one or more digital devices with nefarious (criminal or unethical) objectives. A hacker with unethical goals, or no perceived ethical goals.
+
+black-listing – (in the context of cybersecurity) adding a specific file type, URL or data packet to a security defence program to prevent it from being directly accessed or used. For example, a website domain can be blocked using firewall rules to ensure that no user can visit that website through usual means.
+
+bleeding edge – Using inventions so new, they have the likelihood to cause damage to their population before they become stable and safe.
+
+blue team – the group of people that assemble during a mock attack by a red team to help defend the digital landscape being targeted.
+
+Bot – is a computer program designed to perform tasks. They are usually simple, small and designed to perform fast, repetitive tasks. Where the purpose of the program is in conflict with the organization, they can be considered to be a form of malware. See also botnet.
+
+bot herder – is a hacker who uses automated techniques to seek vulnerable networks and systems. Their initial goal is to install or find bot programs they can use. Once they have one or more bots in place, they can control these to perform a larger objective of stealing, corrupting and/or disrupting information, assets and services. See also botnet.
+
+botmaster – alternative naming convention for a bot herder.
+
+botnet – a shortened version of the robotic network. A connected set of programs designed to operate together over a network (including the internet) to achieve specific purposes. The purpose can be good or bad. Some programs of this type are used to help support internet connections, malicious uses include taking over control of some or all of the functions of a computer to support large scale service attacks (see denial of service). Botnets are sometimes referred to as a zombie army.
+
+breach notification procedure – some types of information, when suspected or known to be lost or stolen, are required to be reported to one or more authorities within a defined time period. Usually, this is when personal information is involved. The notification time period varies but is often within 24 hours. In addition to reporting the known or suspected loss to the authorities, the lead organization responsible for the information (referred to as the data controller) is also required to swiftly notify any people who are affected and later to submit, to appropriate regulators, a full root cause analysis and information about how they have responded and fixed any issues identified. To meet these legal obligations, larger companies usually have a predefined breach notification procedure to ensure that the timelines are met. The fines for data breaches are usually increased or decreased based on the adequacy of the organizations’ breach and incident response management.
+
+brute force (attack) – the use of a systematic approach to try to gain unauthorized access. For example, if there is a single password that is only 8 characters long, there are only a finite number of possibilities that can be attempted through an automated attempt of all possible combinations. Computing speeds make brute force attempts to try millions of possibilities easy if other defences are not present.
+
+bug – a flaw or fault in an application or system. The term originated from very early computers that had huge capacitors that could become defective if physical insects (bugs) were present and shorted the connection.
+
+Business Continuity Plan – (abbreviation BCP) an operational document that describes how an organization can restore their critical products or services to their customers should a substantial event that causes disruption to normal operations occur.
+
+BYOC – acronym for Bring Your Own Cloud. A term used to describe the cybersecurity status where employees or contractors are making direct decisions to make use of externally hosted services to manage, at least some of, their organizations work. If this is taking place without the inclusion of a process to risk assess and control the security features, it can lead to significant risks both to the direct information involved and by potentially opening up other security gaps in the digital landscape.
+
+C 
+
+CAPA – acronym meaning corrective action preventive action. See corrective and preventive action system.
+
+CERT – acronym used widely to mean either Computer Emergency Response Team (for example CERT UK) or Computer Emergency Readiness Team (for example  CERT US). The primary role of these organizations is to help their member or country organizations to prepare, monitor and respond to cybersecurity and other digital landscape threats.
+
+certificate authority – the use of a trusted third party organization to supply and verify tokens (certificates) that attest to the validity of technology service.
+
+chain of custody – a method of ensuring that a set of information and any metadata (tags, labels or other descriptive additions) are preserved as they are passed between owners and locations. This term is frequently applied to the preservation of evidence in the field of digital forensics.
+
+chargeware – a form of malicious software (malware) designed to perform actions on a victims device that will incur costs to them for the benefit of the attacker. For example, on a smart mobile phone, sending SMS text messages out to a premium rate number without the owners’ knowledge or consent.
+
+checksum – a method of verifying any collection of information is still exactly as it was, through the use of a mathematical algorithm. If any piece of information in the collection of information has changed, the value from running the algorithm will be changed, indicating that the information has been altered. See also md5 hash as an example.
+
+Chief Information Security Officer (CISO) – a single point of accountability for ensuring that an appropriate and effective framework for managing dangers and threats is operating and effective.
+
+cipher – the use of a key to change information into a secret or hidden format.
+
+clickbait – to generate enticing content that encourages or pressures the recipient, or viewer, to want to access the URL link or attached file that is on offer. Originally this term was used to describe methods advertisers would use to get traffic to a particular web page, however, it is also a primary technique used to make phishing communications attractive to the unwary recipient.
+
+clickjacking – the process of persuading a user to select (click) on an item that has a different function from the one that the user perceives. This method can be used to trick a person into performing actions they did not intend, for example, to visit a URL and/or download malware they were not expecting. The visible action for the ‘click’ is different from the actual action that the selection initiates.
+
+closed system – a collection of applications, systems and devices that only have the ability to communicate with each other. No connection to any component outside the known and trusted group is permitted.
+
+cloud (the) – an umbrella term used to identify any technology service that uses software and equipment not physically managed or owned by the person or organization (customer) using it. This usually provides advantages of on-demand scalability at lower cost. Examples include applications that are hosted online, online file storage areas, even providing remote virtual computers. Using a cloud will mean the equipment managing the service is run by the cloud provider and not the customer. Although the customer does not own the service, they are still accountable for the information they choose to store and process through it. Usually, a cloud service is indicated by an ‘aaS’ suffix. For example – SaaS (Software as a Service), IaaS (Infrastructure as a Service) and PaaS (Platform as a Service).
+
+cloud security – a term used to describe the collective policies, technologies, procedures and other controls that are used to protect a technology service hosted by an external organization. Cloud platforms are typically internet accessible and shared with many customers, requiring stronger security than services delivered within an isolated network.
+
+compartmentalization – a security technique that can be applied to high-value assets. The assets can be placed in a more isolated system, network or device requiring additional security controls to access. This is designed to add greater protection to those assets.
+
+Compliance – the process used to verify that governance items (policies, procedures, regulations and more) are being followed, and to identify when they are not. Audits, assessments, continuous monitoring can be used to identify and report deficiencies. Any identified gaps are usually tracked and resolved through a corrective and preventive action system.
+
+confidentiality – the assignment of a value to a set of information to indicate the level of secrecy required and used to set access restrictions. A typical example scale for confidentiality is: (i) Public Use (ii) Internal Use (iii) Confidential (iv) Strictly Confidential and (v) Restricted
+
+configuration management – the backbone of security management in large enterprises, this is the process used to track and ensure all hardware and software are identified and in a controlled state. Functions include (i) helping to ensure that timely security patch management can be applied and (ii) that unknown digital devices can be prevented from connecting to the network.
+
+consent – where electronic personal information is involved, there are often legal constraints that govern how the data can be used and where the information can be viewed, stored, transmitted or otherwise processed. In those circumstances, permission is often required from each individual for what information can be collected, where it can be processed and how long it will be retained for. These permissions can be represented by a series of tags on individual records or on the full data set. The required permission attributes can include but are not limited to, country of origin, permission for export, limitations of use, retention and notification requirements.
+
+containment – a stage during incident response where a confirmed problem (for example a malware infection) has steps taken to isolate it and prevent the issue from spreading to other areas.
+
+continuous monitoring – port scanning can detect patterns that can indicate an imminent attack and alert the appropriate personnel.
+
+control – (in the context of security and compliance) a method of regulating something, often a process, technology or behavior, to achieve a desired outcome, usually resulting in the reduction of risk. Depending on how it is designed and used, any single control may be referred to as preventive, detective or corrective.
+
+control information – the component of a data packet that provides the destination, source and type of content.
+
+control modes – an umbrella term for preventive, detective and corrective methods of defense. Each one represents a different time posture, preventive controls are designed to stop an attack before it is successful, detective controls are designed to monitor and alert during a potential compromise and corrective controls are the rectification of an issue after an event.
+
+control systems – collections of applications that function together to command the actions or activities of other devices. For example, a heating, ventilation and air-conditioning (HVAC) control system may comprise of a number of devices (sensors) that feed into a central set of applications that regulate other devices (heaters and coolers). Collectively, this would be an example of a control system. Industrial control systems is a term applied when the usage is for large-scale production objectives and/or to operate extremely high-capacity devices. These systems are considered high-value targets for cyber attack because they are easy to ransom, high cost to repair, have substantial ability to disrupt or halt business operations and can lead to huge brand and share-price damage.
+
+corrective action – a specific activity (triggered by an event) that when complete will result in the mitigation or resolution of a problem. The fact the activity is triggered by an event makes the activity reactive and therefore corrective.
+
+Corrective And Preventive Action System (CAPA) – An automated tracking process to ensure that key activities (actions) to resolve or mitigate gaps in security or compliance are consistently tracked through to completion.
+
+corrective control – (see also control) a method of defence that is introduced as the reactive result of an observed deficiency in security. For example, the addition of greater network segmentation after an attack can be considered a corrective control.
+
+critical infrastructure – the core of any digital landscape that enables the highest priority technology services and data flows to operate.
+
+cross-site scripting (also known as XSS) – security exploit that takes advantage of security design flaws in web-generated pages. If the dynamic pages from a legitimate site do not have very robust rules, users machines can be exploited by a 3rd party to present false links or dialog boxes that appear to be from the legitimate site but are not. A specific instance of an XSS vulnerability is known as an XSS hole.
+
+cryptanalysis – the art of examining ciphered information to determine how to circumvent the technique that was used to encode or hide it, i.e. analyzing cyphers.
+
+cryptographic algorithm – the use of a mathematical and/or computational model to cypher information from plain text to a hidden format.
+
+cryptography – the use of models to make information secret using cyphers i.e. writing cyphers.
+
+cryptology – the study of models used to make information secret using cyphers, i.e. reading cyphers.
+
+CVE Identifier – the acronym stands for Common Vulnerabilities and Exposures. This is a unique number assigned in a publicly accessible database for all known (and suspected) security vulnerabilities in publicly released software. The database is maintained by the not-for-profit US MITRE Corporation. The format is CVE + Year + (the number assigned) – so, for example, CVE-2014-6271 is the initial identifier for the shellshock security bug, with the middle number indicating it was registered in 2014. The list can be accessed through: http://cve.mitre.org/
+
+cyber attack – to take aggressive or hostile action by leveraging or targeting digital devices. The intended damage is not limited to the digital (electronic) environment.
+
+cyber attack lifecycle – a conceptual model of the sequential steps that are involved in a successful unauthorized intrusion or disruption into a digital landscape or digital device. There are a number of models currently available, an example of the most common steps found across the models are illustrated within the definition of advanced persistent threat. See also kill chain.
+
+cyber defence points -the digital locations where we could add cybersecurity controls. Example defence points include data, applications, systems, devices and networks.
+
+cyber defence strategies – a shortlist of the primary defensive countermeasure types that can be considered at each stage in the cyberattack lifecycle as part of a structured defence. These are typically summarized as detect, deny, disrupt, degrade, deceive and contain. See also kill chain.
+
+cyber-espionage – the use of digital technologies to help steal information from any organization or individual in order to create a financial or political gain.
+
+cyber insecurity – suffering from a concern that weaknesses in your cybersecurity are going to cause you personal or professional harm.
+
+cyber manoeuvre –an action, method or process designed to operate to attack or defend all or part of a digital landscape in order to gain an advantage over an adversary. The activity is designed to capture, disrupt, destroy, deny or otherwise manipulate the position of the adversary.
+
+cyber operations – the activity of gathering information around active threats to the digital landscape. Usually a combination of real-time threat intelligence about network and malware attacks, together with external intelligence about active and emerging threats.
+
+cybersecurity – The protection of digital devices and their communication channels from danger or threat. Usually, the required protection level must be sufficient to prevent unauthorized access or intervention that can lead to personal, professional, organizational, financial and/or political harm. In the UK this term Is used as 2 words – cybersecurity.
+
+cybersecurity control types –categories used to help organize the defences against cyber attack. Usually, these categories are (i) technical (ii) procedural (iii) physical and (iv) compliance (or legal/contractual). Each of the cyber defence points should have all of the cyber control types considered and in place as appropriate to the risks.
+
+cyberspace – the area available for electronic information to existing inside any collective of interconnected digital devices.
+
+cyberwar – a campaign of activities by one entity that has the purpose to defeat an enemy entity through disruption to, compromise of or theft from the enemy digital landscape. The entity can be a state, company or other organization.
+
+cyber warrior – a person that engages in attempts at unauthorized access or disruption of digital devices, systems or networks for personal, political or religious reasons.
+
+D 
+
+dark internet – publicly accessible electronic data content that is only unreadable due to its format or indexing. For example, a store of raw scientific information may be internet accessible, but without indexing or context, it is considered part of the dark internet.
+
+dark web – websites that hide their server locations. Although publicly accessible, they are not registered on standard search engines and the hidden server values make it extremely difficult to locate what organizations and people are behind the site.
+
+data controller – the organization that owns and is accountable for a set of data. In many privacy regulations around the world, the role of the data controller can have legal and financial implications for the organization and/or for a specific person (organization role) if compliance requirements are not met.
+
+data loss prevention (DLP) – this term can describe both (i) technologies and (ii) the strategies used to help stop information from being taken out of an organization without the appropriate authorization. Software technologies can use heuristics (patterns that fit within certain rules), to recognize, alert and/or block data extraction activities on digital devices. For example, to prohibit specific types of file attachments to be sent out via internet mail services. They can also prevent or monitor many other attempts at removing or copying data. There are workarounds that can be used by skilled hackers that can evade detection by these solutions, including encryption and fragmentation. Although these solutions are becoming an essential line of defence, the most secure environments aim to prevent any significant set of data being available for export in the first place. For this reason, data loss prevention is often thought of as the last line of defence (a final safety net if all other security controls have not been successful). Information loss prevention (ILP) is an alternative version of the same term.
+
+decapitation – (in the context of malware) to remove the ability for malware to send or receive instructions and other information from the controlling attacker. This can effectively render many forms of malware ineffective. This is a method of takedown.
+
+deep web – internet content that cannot be seen by search engines. This includes not only dark web content but also harmless and general content that is not indexed or generally reachable, for example – personal databases and paid content.
+
+default accounts – generic user and password permissions, often with administrative access that is provided as standard for some applications and hardware for use during initial set-up.
+
+defence in depth (also castle approach)– the use of multiple layers of security techniques to help reduce the chance of a successful attack. The idea is that if one security technique fails or is bypassed, there are others that should address the attack. The latest (and correct) thinking on defence in depth is that security techniques must also consider people and operational factors (for example processes) and not just technology.
+
+Denial of service (DoS) – an attack designed to stop or disrupt people from using organizations systems. Usually, a particular section of an enterprise is targeted, for example, a specific network, system, digital device type or function. Usually, these attacks originate from and are targeted at, devices accessible through the internet. If the attack is from multiple source locations, it is referred to as a distributed denial of service or DDoS attack.
+
+detective control – (see also control) a method of defence used to help identify items or issues that may occur but are not being defeated or prevented by other means. For example, an intrusion detection system may identify and alert a new issue but may not have the means to defeat the problem without additional intervention.
+
+digital fingerprinting – has two different potential meanings. (i) to covertly embed ownership information inside any form of electronic information, so that original ownership can still be established on stolen or copied information. This varies from digital watermarking because the ownership information is hidden. (ii) the use of characteristics that are unique to an electronic file or object to help prevent, detect or track unauthorized storage, usage or transmission. Used as a form of defense on high sensitivity intellectual property.
+
+digital forensics – a specialist field to help procure, preserve, rebuild, recover, analyze and interpret electronic information and help investigate and uncover residual evidence after an attack. See also indicators of compromise.
+
+digital landscape – the collection of digital devices and electronic data that is visible or accessible from a particular location.
+
+digital signature – to endorse an electronic artefact using an identity that can be verified through a mathematical technique. Digital signatures may only be considered the equivalent of their handwritten counterpart where evidence of unique access to the mathematical technique can be proven without a doubt.
+
+digital watermarking – a technique to embed ownership information inside any form of electronic information. This technique can be used towards some forms of advanced cyber defence, especially for intellectual property, so even if it is stolen, the information will still contain evidence of the original owner. See also digital fingerprinting.
+
+DMZ (Demilitarized Zone) — A segment or subnet of a private network where resources are hosted and accessed by the general public from the Internet. The DMZ is isolated from the private network using a firewall and is protected from obvious abuses and attacks from the Internet using a firewall. A DMZ can be deployed in two main configurations. One method is the screened subnet configuration, which has the structure of I-F-DMZ-F-LAN (i.e. internet, then firewall, then the DMZ, then another firewall, then the private LAN). A second method is the multi-homed firewall configuration, which has the structure of a single firewall with three interfaces, one connecting to the Internet, a second to the DMZ, and a third to the private LAN.
+
+doxxing (also doxing) – publicly exposing personal information on to the internet. Thought to be based on an abbreviation of the word ‘documenting’.
+
+drive-by download – the unintended receiving of malicious software on to a device through an internet page, electronic service or link. The victim is usually unaware that their action permitted new malicious software to be pulled on to and installed in to their digital device or network.
+
+dual-homed – any network device that has more than one network interface. The primary method of positioning firewalls and other network boundary or perimeter defence uses this technique to connect untrusted networks to trusted networks by keeping them isolated to different network connections and applying rules and controls on any data that is passed across.
+
+dwell-time – in the context of cybersecurity – how long an intrusion or threat has been allowed to remain in place before being discovered and eliminated.
+
+dynamic testing – (in the context of cybersecurity) to assess the security standards and potential vulnerabilities within an application or service when it is running in an installed environment. This is usually a form of black-box0 penetration testing. See also static testing.
+
+E 
+
+endpoint – a final digital destination where electronic information is processed by users. Computers, smartphones and tablet devices are all examples of endpoints.
+
+endpoint behaviour analysis – analyzing unusual patterns on user devices, such as changes to registry entries, unusual traffic patterns or file changes as indications of potential threats or other malware-related activity. This can contribute to indicators of compromise threat intelligence.
+
+endpoint forensics – the ability to capture both static and in-memory evidence to preserve, rebuild and uncover evidence from a known or suspected attack on a user device. See also endpoint.
+
+endpoint protection – a term used to describe the collective set of security software that has become standard for most user-operated digital devices. The security software may include anti-malware, a personal firewall, intrusion prevention and other capabilities.
+
+enumeration - defined as a process which establishes an active connection to the target hosts to discover potential attack vectors in the system, and the same can be used for further exploitation of the system. This includes gathering: Usernames, group names, Hostnames, Network shares and services, IP tables and routing tables, Service settings and audit configurations, Application and banners, SNMP and DNS details
+
+ethical hacker – an alternative name for a penetration tester.
+
+ethical hacking –the process of supportive (white-hat) penetration testing experts assisting in finding security weaknesses and vulnerabilities.
+
+exfiltrate – to move something with a degree of secrecy sufficient not to be noticed. Used to describe moving stolen data through detection systems.
+
+exploit – to take advantage of a security vulnerability. Well, known exploits are often given names. Falling victim to a known exploit with a name can be a sign of low security, such as poor patch management.
+
+F 
+
+file transfer protocol (FTP) – the standard method used to send and receive packages of information (files). SFTP or secure file transfer protocol is the secure variation of this, used to send and receive data through an encrypted connection. Even if data is sent through an encrypted connection, it will not itself be automatically encrypted.
+
+FIM – File integrity monitoring (FIM) is an internal control or process that performs the act of validating the integrity of operating system and application software files using a verification method between the current file state and the known, good baseline
+
+firewall – is hardware (physical device) or software (computer program) used to monitor and protect inbound and outbound data (electronic information). It achieves this by applying a set of rules. These physical devices or computer programs are usually deployed, at a minimum, at the perimeter of each network access point. Software firewalls can also be deployed on devices to add further security. The rules applied within a firewall are known as the firewall policy.
+
+firewall policy – the rules applied within either a physical hardware device (a hardware firewall) or software program (a software firewall) to allow or block specific types of inbound and outbound data traffic at the perimeter of a network or digital device.
+
+Forensics – The means of gathering digital information to be used as evidence in a legal procedure. Digital forensics focuses on gathering, preserving and analyzing the fragile and volatile data from a computer system and/or network. Computer data that is relevant to a security breach and/or criminal action is often intermixed with standard benign data from business functions and personal activities. Thus, digital forensics can be challenging to properly collect relevant evidence while complying with the rules of evidence in order to ensure that such collected evidence is admissible in court.
+
+G 
+
+garbage code – a technique used by some forms of malware to intentionally add large volumes of encrypted and irrelevant programming code to make the work of defeating the threat more difficult. The attacker can hide a very small malicious software program inside a very much larger encrypted file (potentially thousands or millions of times larger), making the process of quarantine, decryption and elimination of the threat much harder.
+
+gateways – network points that act as an entrance to another network. A node or stopping point can be either a gateway node or a host (end-point) node.
+
+gethostbyaddr – DNS (Domain Name System) query that returns the Internet host name corresponding to an IP address.
+
+gethostbyname – DNS (Domain Name System) query that returns the name of the host corresponding to an Internet host name.
+
+GIT/Github – a web-based Git repository hosting service. It offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking,feature requests, task management, and wikis for every project.
+
+GNU – “GNU’s Not Unix” (GNU is pronounced as g’noo). The development of GNU started in January 1984 and is known as the GNU Project. GNU is a Unix-like Operating System (OS), that comprises of many programs such as applications, libraries, developer tools, games. The GNU is available with source code that allows a user to run, copy, modify, distribute, study, change, and improve the software.
+
+governance – the methods used by any executive to keep their organization on track with the management goals, and within acceptable performance standards. This is usually achieved by establishing policies, procedures and controls that match the enterprises vision, strategy and risk appetite.
+
+governance, risk and compliance – a term to describe the interaction and interdependence between the activities that (i) control any organization (governance) (ii) verify and enforce those controls (compliance) and (iii) manage any substantial exposures to financial impact that emerge (risk), often due to gaps in (i) or (ii).
+
+guideline – a general rule or a piece of advice required to follow in order to accomplish the set goals of an organization.
+
+H 
+
+hacker – a person who engages in attempts to gain unauthorized access to one or more digital devices. Can be black hat (unethical) or white hat (ethical hacker) depending on the person’s intent.
+
+hacktivism – an amalgamation of hacker and activism. Describes the act of seeking unauthorized access into any digital device or digital landscape to promote a social or political agenda. Usually, the unauthorized access is used to cause destruction, disruption and/or publicity. Individuals participating in these acts are called hacktivists.
+
+Hard Copy Key – physical keying material, such as printed key lists, punched or printed key tapes, or programmable, read-only memories.
+
+hashing – using a mathematical function to convert any block or group of data into a fixed-length value (usually shorter than the original data) that represents the original data. This fixed-length value can be used for fast indexing of large files by computer programs without the need to manage the larger data block. It is also used extensively in the field of security, for example, digital forensics can use this technique to verify that the data content of a copy of any examined data is identical to the original source.
+
+Heartbleed – was the name given to the most significant security vulnerability (software flaw that could be taken advantage of) of its time, affecting a large number (estimated at 17%) of internet servers that used openSSL cryptography. It allowed vulnerable internet servers to have private encryption keys, user cookies and passwords to be stolen. A patch to fix the flaw was released on the day the vulnerability was publicly disclosed. It was given the CVE identifier CVE2014-0160.
+
+honey network – the collective name for a cluster of honeypots that operate together to help form part of a network intrusion detection strategy.
+
+honeypot – an electronic device or collection of data that is designed to trap would-be attackers by detecting, deflecting or otherwise counteracting their efforts. Designed to look like a real part of an enterprises attack surface, the honeypot will contain nothing of real value to the attacker but will contain tools to identify, isolate and trace any intrusion.
+
+Host-based Intrusion Prevention Systems (HIPS) – a version of an intrusion prevention system installed directly onto the digital device it is protecting against exploitation. See also intrusion prevention system for a description of its purpose.
+
+host-forensics – the ability to capture both static and in-memory evidence to preserve, rebuild and uncover evidence from a known or suspected attack on any digital device.
+
+hyper text transfer protocol (HTTP) – is the standard method used to send information (files, pictures and other data) over the world wide web. HTTPS or SHTTP is the secure version of this protocol that can be used when the information requires a secure connection. It is rumoured that the security for https / shttp is already or may soon be able to be broken by some organizations.
+
+HUMINT – human intelligence – intelligence gathered by means of interpersonal contact; a category of intelligence derived from information collected and provided by human sources.
+
+I
+
+IaaS – acronym meaning infrastructure as a service. This is a form of cloud solution where, in place of owning and running a physical network with physical servers and other hardware, the customer is offered a solution that emulates the attributes of a physical network and server infrastructure. The cloud provider operates virtualization software to offer fast, easy, infrastructure scalability at a lower cost. Ultimately, this solution still runs on physical machines maintained by the cloud provider. The cloud provider achieves the lower cost by running a much higher automation rate and utilization of the physical hardware than customers can accomplish independently.
+
+identity cloning — A form of identity theft in which the attacker takes on the identity of a victim and then attempts to live and act as the stolen identity. Identity cloning is often performed in order to hide the birth country or a criminal record of the attacker in order to obtain a job, credit or other secured financial instruments.
+
+identity fraud — A form of identity theft in which a transaction, typically financial, is performed using the stolen identity of another individual. The fraud is due to the attacker impersonating someone else.
+
+image steganography – to conceal information inside a picture (image file) so that the sender and/or recipient may not know that the message is present. Used within cyberattacks to help hide unauthorized or unwanted communications. For example the zeus malware used an image file to communicate command and control instructions to the malware as least significant bits within a landscape image file. The recipient would perceive only an image file but the malware would be able to read the concealed message. See also steganography and steganalysis.
+
+IMINT – imaginary intelligence – intelligence gathering discipline which collects information via satellite and aerial photography. IMINT is complemented by non-imaging MASINT electro-optical and radar sensors
+
+in-memory – any digital device can comprise of more than one type of data storage. Information that is not in active use can be stored to a device such as a hard disk. Information that is being used (or imminently expected to be used) by the processor in a computer is managed through a more active storage area (the memory or active memory). When a digital device image is captured for digital forensic examination, it is usual to snaphot not only the static information on any hard disk (or equivalent) but also the active information (the information inmemory).
+
+incident response – a prepared set of processes that should be triggered when any known or suspected event takes place that could cause material damage to an organization. The typical stages are (i) verify the event is real and identify the affected areas. (ii) contain the problem (usually by isolating, disabling or disconnecting the affected pieces). (iii) understand and eradicate the root cause. (iv) restore the affected components in their fixed state. (v) review how the process went to identify improvements to the process. An incident response may also be required to trigger other response procedures, such as a breach notification procedure if there is any information which has been lost that is subject to a notification requirement. For example – the loss of any personal information beyond what might be found in a phone book entry is usually considered a notifiable event.
+
+indicators of compromise (IOC) – is a term originally used in computer forensics to describe any observable behaviours and patterns (such as particular blocks of data, registry changes, IP address references) that strongly suggest a computer intrusion has or is taking place. The collation of these patterns and behaviours are now actively used in advanced threat defence to help more rapidly identify potential security issues from across a monitored digital landscape.
+
+infection – (in the context of cybersecurity) unwanted invasion by an outside agent that has the intent to create damage or disruption.
+
+information security policy — A written account of the security strategy and goals of an organization. A security policy is usually comprised of standards, policies (or SOPs – Standard Operating Procedures) and guidelines. All hardware, software, facilities and personnel must abide by the terms of the security policy of an organization. (Also known as security policy.)
+
+inherent risk – the level of exposure to loss, or the impact something has before any mitigating controls are taken into consideration. For example, holding credit card data in a system brings an inherent risk to the system. See also a residual risk.
+
+insider threat — The likelihood or potential that an employee or another form of internal personnel may pose a risk to the stability or security of an organization. An insider has both physical access and logical access (through their network logon credentials). These are the two types of access that an outside attacker must first gain before launching malicious attacks whereas an insider already has both of these forms of access. Thus, an insider is potentially a bigger risk than an outsider if that insider goes rogue or is tricked into causing harm.
+
+integrity – a value that can be assigned to a set of information to indicate how sensitive it is to data corruption (such as unauthorized modification) or data loss. Loss in this context is about losing information without the ability for anyone to recover it from the system it was entered into (it is not about theft). Often this value is expressed or translated into a scale of time. For example, data with the highest possible integrity rating could be given a value of ‘no data loss permitted’. If it was permitted to lose up to 4 hours of data that had been processed, the value would be ‘4 hours’. Usually, if any data loss is permitted, it means that there will be other processes in place to address the loss of electronic information. The integrity value assigned to any system or application is used to set the frequency that the information is subject to backup, or in very sensitive systems with no data loss permitted, establishes the need for a permanent secondary failover system.
+
+Internet of Things (IoT) – the incorporation of electronics into everyday items sufficient to allow them to network (communicate) with other network-capable devices. For example, to include electronics in a home thermostat so that it can be operated and share information over a network connection to a smartphone or other network-capable devices.
+
+internet protocol – is the set of rules used to send or receive information from or to a location on a network, including information about the source, destination and route. Each electronic location (host) has a unique address (the IP address) used to define the source and the destination.
+
+Intrusion Detection Systems (IDS) – a computer program that monitors and inspects electronic communications that pass through it, with the purpose to detect, log (record) and raise alerts on any suspected malicious or otherwise unwanted streams of information. This is a variation from an intrusion detection and prevention system as it has no ability to block the activity, only to monitor, inspect and alert.
+
+Intrusion Detection and Prevention Systems (IDPS) – a computer program that monitors and inspects electronic communications that pass through it, with the purpose and ability (i) to block and log (record key information) about any known malicious or otherwise unwanted streams of information and (ii) to log and raise alerts about any other traffic that is suspected (but not confirmed) to be of a similar nature. These are usually placed in the communication path to allow the prevention (dropping or blocking of packets) to occur. They can also clean some electronic data to remove any unwanted or undesirable packet components.
+
+Intrusion Prevention Systems (IPS) – see intrusion detection and prevention systems. A small variant on an IPS, compared to an IDPS is that it may not collect any detection information and may only serve to block (prevent) unwanted traffic based on direct rules or instructions it receives.
+
+ISAC/ISAO – Information Sharing and Analysis Centers – a nonprofit org that provides a central resource for gathering information on cyber threats to critical infrastructure and providing two-way sharing of information between the public and private sector.
+
+J 
+
+Java – a programming language designed primarily for internet programs.
+
+JavaScript – is a high-level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification.
+
+JBOH (JavaScript-Binding-Over-HTTP) — A form of Android-focused mobile device attack that enables an attacker to be able to initiate the execution of arbitrary code on a compromised device. A JBOH attack often takes place or is facilitated through compromised or malicious apps.
+
+Jitter – any deviation in, or displacement of, the signal pulses in a high-frequency digital signal. The aberration can be in amplitude, phase timing, or the width of the signal pulse. Jitter is sometimes referred to as “Packet Delay Variation,” or PDV. Controlling jitter is critical for a good online experience.
+
+Jump Bag– a container that has all the items necessary to respond to an incident inside to help mitigate the effects of delayed reactions.
+
+jump drive – a portable electronic data storage device usually attachable through a USB port.
+
+K
+
+key –(in the context of cybersecurity) is a set of information that can be used to encode or decode encrypted information.
+
+Keylogger — Any means by which the keystrokes of a victim are recorded as they are typed into the physical keyboard. A keylogger can be a software solution or a hardware device used to capture anything that a user might type in including passwords, answers to secret questions or details and information form e-mails, chats and documents.
+
+Kerberos – a computer network authentication protocol and is ticket-based allowing nodes to communicate over a non-secure. Massachusetts Institute of Technology (MIT) developed the Kerberos to protect network services provided by Project Athena. This protocol is based on the earlier Needham–Schroeder symmetric key protocol. Kerberos protocol messages are protected against snooping and replay attacks.
+
+Kernel – an essential centre of a computer operating system, the core that provides basic services for all other parts of the operating system. A synonym is nucleus. A kernel can be contrasted with a shell, the outermost part of an operating system that interacts with user commands. Kernel and Shell are terms used more frequently in Unix operating systems than in IBM mainframe or Microsoft Windows systems.
+
+kill chain – a conceptual cyber defence model that uses the structure of attack as a model to build a cyber defence strategy. The stages in an advanced persistent threat are typically used as a framework, with cyber defence strategies (detect, deny, disrupt, degrade, deceive, contain) considered at each stage. The model can be a useful adjunct to defence strategy but also has inherent gaps, for example, it works best for internal organization networks but is less effective when applied to information outside of a defended perimeter. This model does very successfully emphasize that cyber-attacks are much lower cost to deal with when they are identified earlier in the cyberattack lifecycle.
+Target specific organizations for a singular objective
+Attempt to gain a foothold in the environment (common tactics include spear phishing emails)
+Use the compromised systems as access into the target network
+Deploy additional tools that help fulfill the attack objective
+Cover tracks to maintain access for future initiatives
+
+L 
+
+least privilege – a basic security access practice of granting each person or user account with the minimum amount of access rights required to perform their role.
+
+least significant bits – the part of a binary message furthest to the right (for example 1001001), sometimes used as a method to conceal information as an approach in steganography (the concealing of hidden messages).
+
+Lightweight Directory Access Protocol (LDAP) – an open, vendor-neutral, industry-standard application protocol used for accessing and maintaining distributed directory information services over an IP network.  Attackers aim to compromise LDAP to do recon against a target. It helps to enumerate the hierarchical structure of an enterprise as it may be configured with titles, usernames names and business units. LDAP UDP ping port: 138, LDAP port 389/TCP/UDP, LDAPS port 636/TCP
+
+link jacking — A potentially unethical practice of redirecting a link to a middle-man or aggregator site or location rather than the original site the link seemed to indicate it was directed towards. For example, a news aggregation service may publish links that seem as if they point to the original source of their posted articles, but when a user discovers those links via search or through social networks, the links redirect back to the aggregation site and not the original source of the article.
+
+List Based Access Control – Associates a list of users and their privileges with each object, such as a file directory or individual file. Each object has a security attribute that identifies its access control list. The list has an entry for each system user with access privileges. This list is implemented differently by each operating system.
+
+logic bomb – a type of malicious software (malware) that only starts to operate when specific conditions are met. For example, if a particular date is reached or if a companion piece of malware is no longer detectable. Some viruses attack their host systems on specific dates, such as friday the 13th or april fools’ day. Trojans that activate on certain dates are often called time bombs.
+
+M
+
+MAC spoofing – impersonating the unique identifier (MAC address) of another network interface controller. 
+
+macro virus – a form of malicious software designed to operate from within files used by other (usually legitimately installed) programs. For example, a word processing or spreadsheet file can contain sets of malicious instructions, if opened these instructions will be run by the word processing or spreadsheet software. This bypasses the opportunity for anti-malware to detect any new software installation, as the macro virus is leveraging and subverting an application that is already in place.
+
+malware – shortened version of malicious software. A term used to describe the insertion of disruptive, subversive or hostile programs onto a digital device. These types of programs can be intentional or unintentional. Intentional versions are usually disguised or embedded in a file that looks harmless. There are many types of malware; adware, botnets, computer viruses, ransomware, scareware, spyware, trojans and worms, are all examples of intentional malware. Hackers often use malware to mount cybersecurity attacks.
+
+man-in-the-browser – a form of malware attack that modifies transactions within the web browser of the machine it is hosted on so that covert additional transactions or transaction content can be modified without the users’ knowledge or consent.
+
+man-in-the-middle – the interception and relay by a third party of selected content between two legitimate parties, for the purpose of hijacking or adjusting an electronic transaction. For example, party 1 believes they have connected to their banking home page but is actually on an emulated screen offered by the intercepting attacker. As the log-in information is provided, the attacker can set-up a separate connection to the bank (party 2) and is able to respond to any challenge made by the bank bypassing the same challenge back to the user (party 1). Once authorized in the transaction system, the attacker can now make transactions that have not been sanctioned by the user, without their immediate knowledge.
+
+man-in-the-mobile – a form of malware for mobile phones that steals information and credentials.
+
+MASINT  – measurement and signature intelligence – a technical branch of intelligence gathering, which serves to detect, track and identify or describe the signatures (distinctive characteristics) of fixed or dynamic target sources. This often includes radar, acoustic, nuclear, chemical and biological intelligence.
+
+Masquerade attack – any attack that uses a forged identity (such as a network identity) to gain unofficial access to a personal or organisational computer. Masquerade attacks are generally performed by using either stolen passwords and logons, locating gaps in programs, or finding a way around the authentication process. Such attacks are triggered either by someone within the organisation or by an outsider if the organisation is connected to a public network.
+
+master boot record –the first sector on any electronic device that defines what an operating system should be loaded when it is initialized or restarted.
+
+md5 hash – is a very clever algorithm that can be run against any block of data (electronic information) to produce a unique 32 character hexadecimal (numbers and letters) identifier. If even a single character or item of data in the block is changed – the hexadecimal identifier changes significantly. Only fully identical data blocks can ever create the same 32 character hexadecimal code. This allows for a wide range of security usages, for example, very large volumes of information (such as a forensically examined copy of a hard disk) can be compared to the original capture of the disk image and be shown to be completed as it was, without the need to do anything more than verify that the 32 digit hexadecimal value is the same as it was.
+
+metamorphic malware – a more sophisticated form of malware that changes all key parts of its code on each installation. Polymorphic malware uses fewer transformation techniques than this type of (metamorphic) malware as polymorphic malware usually only changes some key parts of its profile but retains the same core virus.
+
+Mobile Device Management (MDM) – a technology used for the security administration of mobile devices such as tablets and smartphones. Able (for example) to remotely wipe information from a mobile device and control what applications and functions are permitted to be installed or run.
+
+moving target defence – the use of frequent changes to multiple dimensions of digital landscapes parameters and settings, to help decrease the potential for a successful attack.
+
+multi-factor authentication – using more than one form of proof to confirm the identity of a person or device attempting to request access. There are usually three different categories of authentication types, (i) something you know [often a password] (ii) something you have [perhaps a security token or access card] and (iii) something you are [use of biometrics, for example, fingerprint or facial recognition]. As an example, effective two-factor authentication would require that when access is being requested, proof would be required from at least two different categories.
+
+N 
+
+NAS – Network-attached storage. A digital repository attached to a network where information can be stored.
+
+National Institute for Cybersecurity Education (NICE) – a US government initiative to help enhance the training and resources for the defence of digital technologies and the electronic information they contain and transact.
+
+networks – the group name for a collection of devices, wiring and applications used to connect, carry, broadcast, monitor or safeguard data. Networks can be physical (use material assets such as wiring) or virtual (use applications to create associations and connections between devices or applications.)
+
+network forensics – a part of the digital forensics discipline, focused on being able to investigate and uncover evidence. This includes rebuilding and recovering electronic information from the devices used to connect and carry information between endpoints. Advances in defensive technology can now allow (for example) for all communicated data packages to be captured for a period of time. Where this technology is in place, even if the sending and receiving endpoint devices are initially unknown, information about what took place can still be acquired because the incoming and outgoing data packages that were communicated can be replayed in full. See also indicators of compromise.
+
+network segmentation – splitting a single collection of devices, wiring and applications that connect, carry broadcast, monitor, or safeguard data, into smaller sections. This allows for more discrete management of each section, allowing greater security to be applied in sections of the highest value and also enabling smaller sections to be impacted in the event of a malware infection or other disruptive event.
+
+network traffic analysis – the act of recording, reviewing and inspecting key information about the data that is transacted over digital devices and infrastructure used to connect and transport electronic information. This technique is used extensively by intrusion detection and prevention systems and other network security sensors. The information collected can also be used towards advanced threat detection and digital forensics as an indicator of compromise.
+
+NGFW – Next-Generation Firewall is an integrated network platform that combines a traditional firewall with other network device filtering functionalities such as an application firewall using in-line deep packet inspection (DPI), an intrusion prevention system (IPS) and/or other techniques such as SSL and SSH interception, website filtering, QoS/bandwidth management, antivirus inspection and third-party integration (i.e. Active Directory). Gartner defines an NGFW as “a wire-speed integrated network platform that performs deep inspection of traffic and blocking of attacks.”
+
+non-repudiation – the act of ensuring that a users electronic activity has sufficient identity checks and audit evidence in place so that it cannot be refuted or denied by the person performing the action. *Note: Issue with non-repudiation: On the internet, a digital signature is used not only to ensure that a message or document has been electronically signed by the person, but also, since a digital signature can only be created by one person, to ensure that a person cannot later deny that they furnished the signature.*
+
+O 
+
+Offensive Technology Data – checksums, signatures, file names; vulnerability and associated exploits.
+
+One-way encryption – or one-way hash function is designed in a manner that it is hard to reverse the process, that is, to find a string that hashes to a given value (hence the name one-way). A good hash function makes it hard to find two strings that would produce the same hash value.
+
+open source – an application, other computer program or software building block where the software code is made publicly available for expansion, use or modification by anybody. This makes it very cheap to use but also opens up the higher potential for malicious subversion, especially if subverted versions of the work are incorporated into systems that are intended to be secure.
+
+openSSL – an open-source version of the Secure Sockets Layer protocol used to help provide authentication and cryptographic security between two parties. This protocol is used widely on internet web servers and web sites to help prevent interception, intrusion and falsification as communications are passed between a legitimate host and the intended recipient of the data.
+
+Open Web Application Security Project (OWASP) – the Open Web Application Security Project is an online community that aims to create free, public resources to help improve the security of software. For example, they maintain lists of the leading vulnerabilities and security controls.
+
+Operational Threat Intelligence – Information about specific impending attacks against the organization and is initially consumed by higher-level security staff, such as security managers or heads of incident response.
+
+OPSEC – operations security – the process by which organizations protect unclassified information that can hurt them.
+
+OSINT – open-source threat intelligence is data collected from publicly available Web sources such as social media, blogs, news publications, and forums. With an estimated 90% of required intelligence available in open source, it is imperative intelligence analysts become adept at mining open sources.
+
+outsider threat — The likelihood or potential that an outside entity, such as an ex-employee, competitor or even an unhappy customer, may pose a risk to the stability or security of an organization. An outsider must often gain logical or physical access to the target before launching malicious attacks.
+
+Overload – defined as the limitation of system operation by the excessive burden on the performance capabilities of a system component.
+
+P 
+
+Platform as a Service (PaaS) –  Applications are developed and deployed on platforms. This type of cloud service allows the development and deployment of new applications to take place for a lower cost and with faster scalability than setting up the equivalent in a private network. The cost benefits and scalability are achieved through the use of shared infrastructure and preconfigured virtual machines. Where the platform is public (open to the internet) and needs to be secure, additional security is required, when compared to a private platform, to achieve the equivalent perimeter protection. See also “cloud”.
+
+packet-filtering – passing or blocking bundles of electronic information inbound or outbound based on rules. For example, if a known threat uses a particular size, format and type of data package (packet), then a rule can be put in place, on either an advanced firewall or similar device, to block content that matches those parameters from leaving or entering a network. See also packet. Also known as content filtering.
+
+packet sniffing — The act of collecting frames or packets off of a data network communication. This activity allows the evaluation of the header contents as well as the payload of network communications. Packet sniffing requires that the network interface card be placed into promiscuous mode in order to disable the MAC (Media Access Control) address filter which would otherwise discard any network communications not intended for the specific local network interface. (Also known as sniffing or eavesdropping.)
+
+patch management – a controlled process used to deploy critical, interim updates to software on digital devices. The release of a software ‘patch’ is usually in response to a critical flaw or gap that has been identified.
+
+payload – the part of the data in a transmission that is the usable content rather than the packaging (the cargo). In the context of cybersecurity, this term is often used to refer to the harmful data (malware for example) that is attempted to be pushed into a target digital device, network or system. For example, an attacker exploits a vulnerability to deliver their payload of malware.
+
+payload analysis – the recording, review and study of the primary data content (electronic information) contained in network transmission packets. This can be used to detect any unexpected, unauthorized or unwelcome incoming or outgoing information transactions, for example, – to help detect or prevent malware from entering a network, or to help detect or prevent confidential information from leaving a network. This can also be used as an indicator of compromise.
+
+penetration test (also known as an attack and penetration test or pen. test) – checks and scans on any application, system or website to identify any potential security gaps (vulnerabilities) that could be exploited. Usually, these checks emulate the same techniques that could be used by an attacker and are performed in a test area. This is to prevent any inadvertent operational disruption. The checks are typically conducted before any application or site is first used and also on a periodic (repeating) basis, for example, each time the program is updated or every 6 months. Any significant gaps must be addressed (fixed) in a timeframe appropriate to the scale of the risk. See also pivoting.
+-a method of evaluating the computer security of a computer system or network by simulating an attack from malicious outsiders. The process involves an active analysis of the system for any potential vulnerabilities from improper system configuration, or operational weaknesses in process or technical countermeasures. This analysis is carried out from the position of a potential attacker and can involve active exploitation of security vulnerabilities.
+
+penetration tester – a person that performs simulated attempts at attack on a target system or application on behalf of the organization that owns or controls it. See also penetration test and pivoting.
+
+periscope up – when people hold a smart device up at head height or higher to capture an event on the device camera.
+
+personally identifiable information (PII) – any combination of information that can directly or indirectly distinguish (identity) who a specific individual is.
+
+persistence – to seek continued existence despite opposition.
+
+persistent (non-reflective) cross-site scripting – a more devastating form of web vulnerability that can impact large numbers of users due to security gaps in the design of some web applications. Unwanted and unexpected code (programs) can be pushed to an application server by an attacker. When a legitimate user accesses the compromised web application, the attackers’ script (mini-program or link) can then be run automatically without any further user action. This is generally considered a critical risk category because it can target all users of an application. See also reflective (non-persistent) cross-site scripting.
+
+phantom vibration – You thought you felt your smart device vibrate but find out that it did not, or realize that there is no smart device in that area of your body right now.
+
+Phishing – using electronic communication (for example email or instant messaging) that pretends to come from a legitimate source, in an attempt to get sensitive information (for example a password or credit card number) from the recipient.
+
+physical security – measures designed to deter, prevent, detect or alert unauthorized real-world access to a site or material item.
+
+pivoting – a method used by penetration testers and attackers to leverage a point of infiltration as a route for easier access to compromise, infect and/or attack further systems and networks.
+
+PKI (Public Key Infrastructure) — A security framework (i.e. a recipe) for using cryptographic concepts in support of secure communications, storage and job tasks. A PKI solution is a combination of symmetric encryption, asymmetric encryption, hashing and digital certificate-based authentication.
+
+policy – (i) a high-level statement of intent, often a short document, providing guidance on the principles an organization follows. For example, a basic security policy document could describe the intention for an enterprise to ensure all locations (physical and electronic) where the information they are accountable for, must remain secure from any unauthorized access. A policy does not usually describe the explicit mechanisms or specific instruction that would be used to achieve or enforce the intentions it expresses; this would be described in the procedure. (ii) Alternatively, it can also be used to mean the settings (including security settings) inside a software program or operating system.
+
+polymorphic malware (Polymorphism) – malicious software that can change its attributes to help avoid detection by anti-malware. This mutation process can be automated so that the function of the software continues but the method of operation, location and other attributes may change. See also metamorphic malware.
+
+port number – used as part of electronic communication to denote the method of communication being used. This allows the packet to be directed to a program that will know what to do with it.  An end point of communication in an operating system. It is identified for each address and protocol by a 16-bit number, commonly known as the port number.
+
+POS (Point of Sale) intrusions — An attack that gains access to the POS (Point of Sale) devices at a retail outlet enabling an attacker to learn payment card information as well as other customer details. POS intrusions can occur against a traditional brick-and-mortar retail location as well as any online retail websites. (See payment card skimmers.)
+
+preventive control – (see also control) a method of security defence used to stop issues before they can become problematic. For example, multi-factor authentication assists in stopping unauthorized access from ever occurring and is therefore considered a preventive control.
+
+privileged account – an electronic user access right that has elevated permissions to allow it to perform system, application, database or other digital landscape management functions. Usually, this form of access requires additional controls and supervision to ensure the elevated privileges are fully accountable and are not misused. Most forms of cyber attack seek to gain this form of access as these types of accounts have to control over their digital landscape.
+
+privileged account management –the systems and processes used to monitor and control the activities of privileged accounts.
+
+procedure – provides guidance or specific instruction on the process (method) that should be used to achieve an objective. Traditionally provided as a document available to appropriate personnel but increasingly replaced by enforcing steps in computer systems. In a traditional quality model, procedures may reside under a policy as an explicit instruction for how a particular objective of the policy is met.
+
+protocol – (in the context of electronic communication) is a set of established rules used to send information between different electronic locations. They provide a standard that can be used to send or receive information in an expected and understandable format, including information about the source, destination and route. Examples of protocols include internet protocol (IP), hypertext transfer protocol (HTTP), file transfer protocol (FTP), transmission control protocol (TCP), border gateway protocol (BGP) and dynamic host configuration protocol (DHCP).
+
+PUPs –the acronym for Potentially Unwanted Program. Describes a type of software that the user may have consented to download but that performs some undesirable or potentially malicious functions. Often this kind of software may be bundled in with other software that the user has consented to download.
+
+Python – is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale.
+
+Q 
+
+quarantine – the act of isolating any known or suspected malware so that it can do no further damage to digital information and assets, usually as a precursor to removal or examination.
+
+QoS – Quality of service (QoS) is the overall performance of a telephony or computer network, particularly the performance seen by the users of the network.
+
+R 
+
+RAT – a remote access tool or remote access trojan are used as forms or components of malware to help attackers gain control over a target computer or other digital device.
+
+recovery point objective (RPO) – the maximum amount of data loss or corruption that can be permitted (often expressed as time) in the event of a system disruption. This, in turn, sets the backup and other failsafe requirements for a system. For example, a hotel or air-flight booking system may have a zero-tolerance to any data loss (no transactions can be permitted to be lost – because they cannot be recovered through any other means) requiring that the system has an infallible method of logging all transactions, so they can always be recovered.
+
+recovery time objective (RTO) – the targeted amount of days, hours, minutes or seconds that a service, application or process must be restored within if it is subject to any disruption. This should be based on the availability rating set by the owner (the recovery time objective must not exceed the availability requirement).
+
+red team – when testing for potential exploits on any critical or sensitive system, infrastructure or website, a team of penetration testers is usually used. This term is used to describe the group of penetration testers working together on this type of objective.
+
+reflective (non-persistent) cross-site scripting – a form of web vulnerability that can impact individual users due to security gaps in the design of some web applications. Unwanted and unexpected code (programs) can be run on a user’s machine if they can be persuaded to click or interact with content that may look legitimate but is, in fact, a link to malware. This is generally considered a lower risk category because it can only target individual users (not the host application) and requires considerable effort for low return from hackers, plus additional user action. See also persistent (non-reflective) cross-site scripting.
+
+residual risk – refers to the remaining possibility of loss and impact after security controls (the risk response) for an item have been applied.
+
+resilience – the ability to remain functional and capable in the face of threat or danger, or to return to function rapidly following any disruption.
+
+risk – a situation involving exposure to significant impact or loss. In formal frameworks, risk can be quantified using probability (often expressed as a percentage) and impact (often expressed as a financial amount). Other parameters for risk can include proximity (how soon a potential risk may be encountered and information about what assets, services, products and processes could be affected).
+
+risk assessment – a systematic process for the proactive detection of potential hazards or gaps on an existing or planned activity, asset, service, application, system or product.
+
+risk-based – an approach that considers the financial impact of a failure, its probability and proximity to determine its’ comparative significance and priority for treatment.
+
+risk register – a central repository that contains entries for each potential, significant loss or damage exposure. Usually, there is a minimum materiality threshold, for example, a minimum potential financial loss value that must be met or exceeded before an entry in the repository is required. If a risk does occur, it technically becomes an issue (rather than a risk). Issues can continue to be tracked within a risk register until the impact has been successfully managed and the root cause/s have been resolved to the extent that the risk is not likely to repeat,
+
+rootkit – a set of software tools that can be used by attackers to gain privileged access and control to the core (root) of the target device. Part of the function of a rootkit usually includes hiding malicious files and processes to help avoid detection and removal of the malware.  A type of malicious software that is activated each time the system boots up. Rootkits are difficult to detect as they are activated before your system’s operating system has completely booted up.
+
+S 
+
+SaaS (Software-as-a-Service) — A type of cloud computing service where the provider offers the customer the ability to use a provided application. Examples of a SaaS include online e-mail services or online document editing systems. A user of a SaaS solution is only able to use the offered application and make minor configuration tweaks. The SaaS provider is responsible for maintaining the application.
+
+salting – is the process of combining unique information to information that may not be unique before it is subject to a security concealment process called hashing. This is to ensure that (for example) if two users choose the same password, the hash value will still be different because the value represents the combination of the password and the unique user id.
+
+sandboxing – a method used by some anti-malware solutions to temporarily place content in a safe area (usually for a matter of seconds) to observe its behavior before allowing it into the real domain. This is used to help identify malware in addition to traditional signature techniques. Some advanced malware is now written to take account of this technique and have a time delay before exhibiting any rogue behaviour, thereby circumventing this defensive technique.
+
+scareware – malicious software that is designed to persuade people into buying an antidote, usually masquerading as a commercial malware removal tool or antivirus package, but in reality provided by the attacker.
+
+script kiddies (skiddie) - an attacker with little to no coding (programming) or technical skills that make use of available scripts, codes and packages to gain unauthorized access to digital devices, applications, systems and/or networks. Also known as script bunnies and skiddies.
+
+secure configuration – ensuring that when settings are applied to any item (device or software), appropriate steps are always taken to ensure (i) default accounts are removed or disabled, (ii) shared accounts are not used and (iii) all protective and defensive control in the item use the strongest appropriate setting/s.
+
+security architecture – a model designed to specify the features and controls across a digital landscape that help it to prevent, detect and control any attempts at disruption or unauthorized access. The model will also ensure that all data exchanges are subject to appropriate standards sufficient to ensure that the data controllers chain of custody commitments are maintained.
+
+security event – a term used to describe a minor disruption to the digital landscape that is thought to be unintentional. Examples include a single failed device or a single user forgetting their password. Unusual patterns of security events can be an indicator of a security incident.
+
+security incident – the intentional damage, theft and/or unauthorized access that has direct or indirect impact to any part of an organizations information, systems, devices, services or products.
+
+security incident responder – a person who assists in the initial analysis and response to any known or suspected attempt at damage, interruption or unauthorized access to an organizations information systems or services.
+
+shellshock – is the name given to a family of security bugs, discovered in September 2014. These bugs can be used to attack certain devices that work on the Unix bash shell platform if they have not had appropriate up to date software patch management applied. Vulnerable (unpatched) systems can be compromised to allow the attacker to gain unauthorized access. It was initially assigned the CVE identifier of CVE-2014-6271 but after initial reporting, additional vulnerabilities were identified. Also known as bashdoor.
+
+SIEM – abbreviation for security incident and event management. This is a name given to the process and team that will manage any form of minor or major interruption to an enterprises digital landscape.
+
+single point (of) accountability (SPA or SPOA) – the principle that all critical assets, processes and actions must have clear ownership and traceability to a single person. The rationale is that the absence of a defined, single owner is a frequent cause of process or asset protection failure. Shared ownership is regarded as a significant security gap due to the consistent demonstration of increased probability of flaws persisting where accountability across more than one person is present.
+
+signatures – (in the context of cybersecurity) are the unique attributes, for example, file size, file extension, data usage patterns and method of operation, that identify a specific computer program. Traditional anti-malware and other security software can make use of this information to identify and manage some forms of rogue software.
+
+social engineering – The act of creating relationships or friendships in order to intentionally acquire intelligence about the security, location or vulnerability of assets.
+
+stateful protocol analysis detection – is a method used by intrusion detection systems to identify malicious or unwanted communications. This method analyses packets to determine if the source, destination, size and routing (protocol) is significantly different from its usual format.
+
+static testing – (in the context of cybersecurity) to assess the security standards and potential vulnerabilities.
+
+T
+
+takedown – the process of rendering malware ineffective by removing its ability to perform its functions, for example, through decapitation.
+
+technical control – the use of an electronic or digital method to influence or command how it is, or is not, able to be used.
+
+Technical Disaster Recovery Plan – an operational document that describes the exact process, people, information and assets required to put any electronic or digital system back in place within a timeline defined by the business continuity plan. If there are multiple business continuity plans that reference the same technical disaster recovery plan, the restoration time used must meet the shortest time specified in any of the documents.
+
+threatscape –a term that amalgamates threat and landscape. An umbrella term to describe the overall, expected methods (vectors) and types of cyber attackers, that an organization or individual might expect to be attacked through or by.
+
+three lines of defense – a security assurance model from the (now replaced) UK Financial Services Authority (FSA). The first tier is the business (or operations level) who must own and be responsible for their information, systems and following due process. The second tier is the security management functions who provide the processes, controls, expertise and other framework items to allow the business to operate within acceptable security risk tolerances. The final tier is auditing those who verify that the first two tiers (lines of defence) are operating as they should.
+
+Tor  – is a free software for enabling anonymous communication – or is free software for enabling anonymous communication. The name is an acronym derived from the original software project name The Onion Router, however, the correct spelling is “Tor”, capitalizing only the first letter. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than seven thousand relays to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult for Internet activity to be traced back to the user: this includes “visits to Web sites, online posts, instant messages, and other communication forms”
+
+two-factor authentication — The means of proving identity using two authentication factors usually considered stronger than any single factor authentication. A form of multi-factor authentication. Valid factors for authentication include Type 1: Something you know such as passwords and PINs; Type 2: Something you have such as smart cards or OTP (One Time Password) devices; and Type 3: Someone you are such as fingerprints or retina scans (aka biometrics).
+
+U
+
+untrusted network – an area of interconnected digital devices where the security controls and/or assignment of authorizations and privileges are not subject to any central or acceptable level of control.
+
+User Contingency Plan – the alternative methods of continuing business operations if IT systems are unavailable.
+
+ungenious –something that was intended to achieve one goal but has a spectacularly negative outcome instead
+
+W
+
+Watering Hole – a computer attack strategy, in which a victim is a particular group (organization, industry, or region). In this attack, the attacker guesses or observes which websites the group often uses and infects one or more of them with malware. Eventually, some member of the targeted group gets infected. Relying on websites that the group trusts makes this strategy efficient, even with groups that are resistant to spear-phishing and other forms of phishing.
+
+Web Application Firewall (WAF) –  is an appliance, server plugin, or filter that applies a set of rules to an HTTP conversation. Generally, these rules cover common attacks such as cross-site scripting (XSS) and SQL injection. By customizing the rules to your application, many attacks can be identified and blocked.
+
+Web of Trust – a concept that is used in PGP, GnuPG, and other OpenPGP-compatible systems to establish the authenticity of the binding between a public key and its owner. Its decentralized trust model is an alternative to the centralized trust model of a public key infrastructure (PKI), which relies exclusively on a certificate authority.
+
+wet wiring – creating connections between the human nervous system and digital devices.
+
+white-box testing (also known as clear box testing) – is the term used to describe a situation where the technical layout (or source code) of the computer program being tested has been made available for the security test. This makes the test easier and cheaper to perform but usually results in the identification of more issues than black-box penetration testing. White box testing can start early in the software lifecycle before an application has ever been installed in any production environments, making security fixes substantially cheaper and easier to apply.
+
+white-hat – a security specialist who breaks into systems or networks by invitation (and with the permission) of the owner, with the intent to help identify and address security gaps.
+
+white-listing – the restriction of ‘allowed’ internet sites or data packages to an explicit list of verified sources. For example, an organization operating a whitelisting firewall can decide to only permit their network users to navigate to a restricted and verified list of internet websites. This is the opposite of blacklisting.
+
+white team – the people that act as referees during any ethical hacking exercise conducted between a red team and a blue team.
+
+Wireless Intrusion Prevention Systems (WIPS) – a device that can be attached to a network and check the radio spectrum for rogue or other unauthorized access points, then take countermeasures to help close the threat down.
+
+X
+
+XMPP – it stands for Extensible Messaging and Presence Protocol, is a communications protocol for messaging systems. It is based on XML, storing and transmitting data in that format. It is used for sending and receiving instant messages, maintaining buddy lists, and broadcasting the status of one’s online presence. XMPP is an open protocol standard. Anyone can operate their own XMPP service, and use it to interact with any other XMPP service. The standard is maintained by XSF, the XMPP Standards Foundation.
+
+XSS – security exploit that takes advantage of security design flaws in web-generated pages. If the dynamic pages from a legitimate site do not have very robust rules, users machines can be exploited by a 3rd party to present false links or dialogue boxes that appear to be from the legitimate site but are not. A specific instance of an XSS vulnerability is known as an XSS hole.
+
+Y
+
+Y2K – acronym representing the year 2000 technology bug. Organizations spent hundreds of millions before the year 2000 ensuring their technologies were not taken out through the change of year in systems that had never been designed to cope with a 4 digit year change. Before the year 2000, there was a very real fear that major catastrophes could follow the date change (technology meltdown). As the year change came and went with little to no impact, many organizations felt they had been conned into excessive protective investments. Much of the resilience to adequate investments in cybersecurity can be attributed to the perceived over-investment in resolving this technical item.
+
+Yottabyte (YB) – a yottabyte is equal to 1,208,925,819,614,629,174,706,176 (280) bits, or 1,000,000,000,000,000,000,000,000 (1024) bytes and is the largest recognized value used with storage.
+
+

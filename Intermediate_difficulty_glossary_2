@@ -1,0 +1,1175 @@
+
+Intermediate Difficulty Glossary 2
+
+
+Acceptable Interruption Window
+Sometimes, an organization's critical systems or applications are interrupted. An acceptable interruption window is the maximum amount of time allowed for restoration of critical systems and applications such that the business goals are not negatively affected.
+
+Acceptable Use Policy
+An acceptable use policy establishes the rules that one must agree to in order to be provided access to a network or internet. The policy also sets guidelines on how the network should be used.
+
+Access Control List
+An access control list (ACL) is a list of permissions attached to an object in a computer file. Each ACL contains a list of access control entries (ACE) that specifies which users or system processes are granted access, denied access or are audited for a securable object.
+
+Access Path
+An access path is a process where a specified quantity of material moves as a unit between work stations, while maintaining its unique identity. In database management system (RDBMS) terminology, access path refers to the path chosen by the system to retrieve data after a SQL request is executed.
+
+Account Manager
+An account manager in an organization is responsible for the management of sales and relationships with particular customers, so that they will continue to use the company for business.
+
+Accountability
+Accountability in the cyber security space entails ensuring that activities on supported systems can be traced to an individual who is held responsible for the integrity of the data.
+
+Accounting Legend Code
+Accounting legend code (ALC) is the numeric code assigned to communications security (COMSEC) material. It indicates the degree of accounting and minimum accounting controls required for items to be accountable within the control systems.
+
+Active Defense
+Active defense refers to a process, whereby an individual or organization takes an active role to identify and mitigate threats to the network and its systems.
+
+Advanced Penetration Testing
+Advanced penetration testing is the process where a network is penetrated intentionally to discover vulnerabilities which make it open to harmful intruders. These vulnerabilities are then addressed and remedied early.
+
+Adversary
+In cryptography, an adversary has malicious intent to prevent the users of the cryptosystem from achieving their goal by threatening the privacy, integrity and availability of data. This could be done by discovering secret data, corrupting some of the data, spoofing the identity of a message sender, or forcing system downtime.
+
+Analog
+An analog is a transmission signal that varies in signal strength (amplitude) or frequency (time). While the higher and lower points of the wave denote the value of signal strength, the physical length of the wave indicates the value of time.
+
+Asset
+An asset is a resource. In accounting, the assets of an organization include all the equity a business has (what the business owns), minus its liabilties (what the business owes).
+
+Assurance
+Assurance in cybersecurity refers to the the level of confidence that the information system architecture meditates and enforces the organization's security policy.
+
+Attack
+An attack is a malicious intent to gain unauthorized access to a system , or compromise system integrity or confidentiality. It interrupts the operations of a network.
+
+Authentication
+Authentication is the proces of confirming the correctedness of the claimed identity of an individual user, machines or software component, to allow access to the system.
+
+Authenticity
+Authenticity is the proof that a claimed identity is legitimate.
+
+Authorization
+Authorization is the right, permission or empowerment that is granted to a system entity to access the system resource and do something.
+
+Badware
+Malware, Adware and Spyware.
+
+Bandwidth
+Bandwidth is the volume of information that can pass through a network for a given period. It specifies the capacity of the communciation channel, and is usually measured in bits per second.
+
+Blacklisting Software
+A form of filtering that blocks only websites specified as harmful. Parents and employers sometimes use such software to prevent children and employees from visiting certain blacklisted websites."
+
+Block Cipher
+A Block Cipher algorithm is a family of functions and their inverses parameterized by a cryptographic key in which the function map bit strings of a fixed length to bit strings of the same length.  It is a method used to cipher text, information by encrypting data in blocks, strings, or group at a time rather encrypting individual bits.
+
+Block Cipher Algorithm
+A Block cipher algorithm is a family of functions parameterized by a cryptographic key. The function map bit strings of a fixed length to bit strings of the same length.
+
+Brute Force Attack
+A Brute Force Attack is the process of finding the solution by trying many probable variants of information such as passwords, deciphered keys, randomly.
+
+Business continuity management
+Business Continuity Management refers to preparing for and maintaining continued business operations following disruption or crisis.
+
+Business Continuity Plan
+A Business Continuity Plan, also known as business emergency plan, offers safeguards against a disaster, and outlines the strategies, action plan on how to continue business as usual in the event of any disaster.
+
+Business Impact Analysis/Assessment
+A Business Impact Analysis is the process of evaluating and identifying risks and threats that a business might face in the event of an accident, disaster, or an emergency. It evaluates the possible risk to tangible and intangible assets such as personal, infrastructure, data and goodwill. In addition, it offers steps needed to recover from any such disasters.
+
+C2
+C2 is a computer security class defined in the Trusted Computer System Evaluation Criteria.
+
+C2 Infrastructure Data
+C2 Infrastructure Data consists of domains, IP addresses, protocol signatures, email addresses, payment card data, etc.
+
+Chargeback
+A payment card transaction where the supplier initially receives payment but the transaction is later rejected by the cardholder or the card issuing company. The supplier's account is then debited with the disputed amount.
+
+Chief Information Security Officer
+A Chief Information Security Officer is a senior level executive of an organization entrusted with the responsibilities of protecting the information assets of the businesses and making sure that the information policies of the organization align with the objectives of the organization.
+
+Clear Desk Policy
+A policy that directs all personnel to clear their desks at the end of each working day, and file everything appropriately. Desks should be cleared of all documents and papers, to ensure that sensitive papers and documents are not exposed to unauthorized persons outside of working hours.
+
+Clear Screen Policy
+Clear Screen Policy is a policy that directs all computer users to ensure that the contents on screen are protected from prying eyes. The easiest way is to use a screen saver that engages either on request or after a specified short period of time.
+
+Clinger Cohen Act of 1996
+The Clinger–Cohen Act (CCA), formerly the Information Technology Management Reform Act of 1996 (ITMRA), is a 1996 United States federal law, designed to improve the way the federal government acquires, uses and disposes information technology (IT).
+
+Common text
+Common text is a series of requirements defined by the International Organization for Standardization, that are being incorporated in all management system International Standards as they are revised.
+
+Compliance Documents
+A Compliance Document is a document detailing the actions required to comply or adhere to the set standards by regulatory bodies. Any violations of the said rules attract punitive actions from the regulatory bodies.
+
+Compromise
+A compromise is the violation of the company's system security policy by an attacker. It can result in the modification, destruction or theft of data.
+
+Computer crime
+Computer crime refers to form of illegal act involving electronic information and computer equipment.
+
+Computer fraud
+Computer fraud is a computer crime that an intruder commits to obtain money or something of value from a company. Computer fraud can involve the modification, destruction, theft or disclosure of data. Often, all traces of the crime are covered up.
+
+Confidentiality
+Confidentiality ensures that rules are set that places restrictions on access to, or sharing of information with the aim of preserving and protecting the privacy of the information.
+
+Configuration Control
+Configuration control is a process for controlling modifications to hardware, firmware, software, and documentation to ensure the information system is protected against improper modifications before, during, and after system implementation.
+
+Conflict-of-interest Escalation
+Conflict of interest Escalation is a present procedure for escalating a security incident if any members of the support or security teams are suspect.
+
+Containment
+Containment is steps taken to control any further risks when identifying a threat.
+
+Continuous Process
+Continuous Process is a process that operates on the basis of continuous flow, as opposed to batch, intermittent, or sequenced operations.
+
+Control
+Control is the regulations taken to prevent unauthorized use of any company's system resources by external intruders or unauthorized employees.
+
+Control Algorithm
+A control algorithm is a mathematical representation of the control action to be performed.
+
+Control Center
+The control centre is an equipment structure from which a process is measured, controlled, and/or monitored.
+
+Control Loop
+A control loop is a combination of field devices and control functions arranged so that a control variable is compared to a set point and returns to the process in the form of a manipulated variable.
+
+Control Network
+Control network of an enterprise is typically connected to equipment that controls physical processes and that is time or safety critical. The control network can be subdivided into zones, and there can be multiple separate control networks within one enterprise and site.
+
+Control Server
+Control Server is a server that hosts the supervisory control system, typically a commercially available application for DCS or Scada system.
+
+Control System
+A control system is a system in which deliberate guidance or manipulation is used to achieve a prescribed value for a variable. control systems include scada, dcs, plcs and other types of industrial measurement and control systems.
+
+Controlled Variable
+A controlled variable is the variable that the control system attempts to keep at the set point value. The set point may be constant or variable.
+
+Cookie
+A cookie is a small packet of information which your computer’s browser stores when you visit a web server. The stored information(e.g. A set of forms) is used to customize your next visit to the same web server.
+
+Cracker
+A cracker, also known as a black hat hacker, is an individual with extensive computer knowledge whose purpose is to breach or bypass internet security or gain access to software without paying royalties. As opposed to hackers who can be internet security internet experts to hire vulnerabilities in systems, crackers has the malicious intent to do damage for criminal gain.
+
+Crimeware 
+Crimeware refers to any malware that's used to compromise systems such as servers and desktops - the majority of these incidents start through web activity, not links or attachments in email.
+
+CRITs 
+CRITs (Collaborative Research Into Threats) is an open source malware and threat repository. It work by leveraging open source software to create a unified tool for security experts engaged in threat defense.
+
+Cyber
+Relating to, or characteristic of, the culture of computers, information technology and virtual reality (OED)
+
+Cybercrime as a service (CaaS) 
+Puts cybercriminal tools and services in the hands of a wider range of threat actors—even the nontechnical, such that anyone can become a cybercriminal with minimal investment allowing the targeting of larger enterprise networks.
+
+CybOX 
+CybOX (cyber observable expression) is standard language for cyber observables (i.e. a schema). Cyber Observables is " a measurable event or stateful property in the cyber domain".
+
+Cycle Time
+Cycle time is the time for a controller to complete one control loop where sensor signals are read into memory, control algorithms are executed, and corresponding control signals are transmitted to actuators that create changes the process resulting in new sensor signals.
+
+Darknet
+A darknet is a private file sharing network where connections are made only between trusted peers using non-standard protocols and ports. Darknets networks are anonymous, and therefore users can communicate with little fear of governmental or corporate interference.
+
+Data Disclosure
+Data disclosure is a breach where where it is confirmed that data is disclosed to an unauthorized party.
+
+Data Historian
+A data historian is centralized database supporting data analysis using statistical process control techniques.
+
+Data Owner
+A Data Owner is an executive entrusted with the data accuracy and integrity in an organization. Such an individual has complete control over data, and can limit the access of data to people and assign permissions.
+
+Data server
+Data Server is a computer or program that provides other computers with access to shared files over a network.
+
+DC Servo Drive
+DC Servo Drive is a type of drive that works specifically with servo motors. It transmits commands to the motor and receives feedback from the servo motor resolver or encoder.
+
+Declaration of conformity
+A declaration of conformity is a confirmation issued by the supplier of a product that specified requirements have been met.
+
+Diamond Model
+Developed by one of ThreatConnect’s founders, and the primary methodology used by ThreatConnect, the Diamond Model breaks each cyber event into four vertices or nodes. These vertices represent an Adversary, Capability, Infrastructure, and Victim. The connections between the vertices form a baseball diamond shape. Through this system analysts are able to derive a multidimensional picture of the underlying relationships between threat actors and their tools, techniques and processes.
+
+Dictionary Attack
+A dictionary attack is a password-cracking attack that tries all of the words in a dictionary.
+
+Discrete Process
+A discrete process is a type of process where a specified quantity of material moves as a unit between work stations and each unit maintains its unique identity.
+
+Distributed Control System
+A distributed control system (DCS) is a computerised control system for a process or plant, in which autonomous controllers are distributed throughout the system, but there is central operator supervisory control.
+
+Distributed Plant
+Distributed Plant is a geographically distributed factory that is accessible through the internet by an enterprise.
+
+Disturbance
+Disturbance is an undesired change in a variable being applied to a system that tends to adversely affect the value of a controlled variable.
+
+Domain Controller
+The domain controller is a server responsible for managing domain information, such as login identification and passwords.
+
+Domain Hijacking
+An attack in which an attacker takes over a domain by first blocking access to the domain's DNS server and then putting his own server up in its place.
+
+Easy Access
+Early access refers to the circumstance where one breaks into a system with minimal effort by exploiting a well-familiarised vulnerability, and gaining super user access in a short time.
+
+Eavesdropping
+Eavesdropping is when one secretly listens to a conversation.
+
+Electronic Infections
+Often called ""viruses"" these malicious programs and codes harm your computer and compromise your privacy. In addition to the traditional viruses, other common types include worms and Trojan horses. They sometimes work in tandem to do maximum damage (Blended Threat).
+
+Email Ingest
+Automated Email Ingest feature allows users to create structured, actionable threat intelligence with ease from emails originating from trusted sources and sharing partners or from suspected spearphishing emails.
+
+Endpoint Security
+In network security, endpoint security refers to a methodology of protecting the corporate network when accessed via remote devices such as laptops and mobile devices. Each device with a remote connecting to the network creates a potential entry point for security threats.
+
+EPP 
+EPP stands for endpoint protection platform. It is a solution that converges endpoint device security functionality into a single product that delivers antivirus, anti-spyware and security.
+
+ETDR
+Endpoint threat detection and response
+
+Ethernet
+Ethernet is the most popular Local Area Network (LAN) technology that specifies cabling and signalling system for home or organization networks. Ethernet uses BUS topology to support data transfers and the CSMA/CD system to process requests at the same time.
+
+EVC
+Endpoint Visibility and Control
+
+Evil Twins
+A fake wireless Internet hot spot that looks like a legitimate service. When victims connect to the wireless network, a hacker can launch a spying attack on their transactions on the Internet, or just ask for credit card information in the standard pay-for-access deal.
+
+External escalation
+External Escalation is the process of reporting a security breach to an individual or group outside the department, division or company in which it occurred. when a problem is escalated, responsibility for resolving that problem is either accepted or shared with the party to whom the problem is escalated.
+
+Extranet
+An extranet is an extension of a company's intranet to include systems outside the company. It is used to facilitate easy access to databases and other sources of information between the company and its customers or suppliers.
+
+False Positives
+A false positive is normal behavior that is marked as ‘different’, or possibly malicious. Too many false positives can drown out true alerts. In ThreatConnect, you can easily mark an indicator as a ‘false positive’ when viewing the details for that indicator. This allows you and your team to focus your time and effort on real threats.
+-In the antivirus world this means a file is flagged as malicious (and possibly quarantined) when it isn’t. This can cause the computer to malfunction. In the antispam world an FP means that a legit email was flagged as spam and quarantined.
+
+Fault Tolerant
+Fault Tolerant refers to the ability of a system to have built in capability to provide continued, correct execution of its assigned function in the presence of a hardware and/or software fault.
+
+Federal Information System
+The Federal Information System is an information system used or operated by an executive agency, a contractor of an executive agency, or by another organization on behalf of an executive agency.
+
+Field Device
+A field device is an equipment that is connected to the field side on an ICS. Types of field devices include rtus, plcs, actuators, sensors, hmis, and associated communications.
+
+Field Site
+A field site is a subsystem that is identified by physical, geographical, or logical segmentation within the ICS. A field site may contain RTUs, PLCs, actuators, sensors, HMIs, and associated communications.
+
+Fieldbus
+Fieldbus is a digital, serial, multi-drop, two-way data bus or communication path or link between low-level industrial field equipment such as sensors, transducers, actuators, local controllers, and control room devices. Use of fieldbus technologies eliminates the need of point-to-point wiring between the controller and each device. A protocol is used to define messages over the fieldbus network with each message identifying a particular sensor on the network.
+
+FIM
+File integrity monitoring (FIM) is an internal control that validates the integrity of operating system and application software files using a verification method between the current file state and the known baseline.
+
+Forensic Discovery
+Forensic discovery is the search and analysis of electronic documents. Electronic records can be found on a wide variety of devices such as desktop and laptop computers, network servers, personal digital assistants and digital phone, and exist in a medium that can only be read by using computers such as cache memory, magnetic disks, optical disks, and magnetic tapes.
+
+Gap analysis
+The comparison of actual performance against expected performance.
+
+Global Information Grid
+The Global Information Grid (GIG) is an all-encompassing communications project of the United States Department of Defense.
+
+Gray hat
+A gray hat is a white hat/ black hat hybrid. A gray hat is a hacker with no intention to do damage to a system or network, but to expose flaws in the system security. However, they may use illegal means to gain access to the net work to expose the security weakness.
+
+GRC
+GRC stands for governance, risk and compliance
+
+Grooming
+Grooming is the act of cyber criminals who use the Internet to manipulate and gain trust of a minor as a first step towards the future sexual abuse, production or exposure of that minor. Sometimes, this may involve days, weeks, months or in some cases years to manipulate the minor.
+
+Hard disk
+The permanent storage medium within a computer that uses magnetic storage to store and retrieve digital information, programs and data.
+
+Hash-based Message Authentication Code (HMAC)
+Hash-based Message Authentication Code is a message authentication code that uses a cryptographic key in conjunction with a hash function.
+
+Honeypot
+A honeypot is a trap set to detect, deflect, or in some manner counteract attempts at unauthorized use of information systems. Generally it consists of a computer, data, or a network site that appears to be part of a network, but is actually isolated and monitored, and which seems to contain information or a resource of value to attackers.
+
+Honeypots/Honeynets
+Honeypots is a trap set to detect, deflect or in some manner, counteract attempts at unauthorized use of information systems. Consists of computer data or a network site that appears to be part of a network but is actually isolated and monitored.
+
+IAM
+Identity and Access Management is the security discipline that enables the right individuals to access the right resources at the right times for the right reasons.
+
+ILDP
+IDLP stands for information leak detection and prevention.
+
+Incident
+An incident is an unplanned disruption of a network or system service and needs to be resolved immediately. An example would be a server crash that causes a disruption in the business process.
+
+Incident Investigation 
+The investigation seeks to determine the circumstances of the incident. Every incident will warrant or require an investigation. However, investigation resources like forensic tools, dirty networks, quarantine networks and consultation with law enforcement may be useful for the effective and rapid resolution of an emergency incident.
+
+Incident Response Procedures 
+Incident Response Procedures are formal written procedures that detail the steps to be taken in the event of a major security problem, such as break-in. Developing detailed incident-response procedures before the occurrence of a problem is a hallmark of a well-designed security system.
+
+Incident Response Team 
+The incident response team is a team that meets regularly to review status reports, authorize specific remedies, and manage the response process. During incidents, they properly assess the incident and make decisions regarding the proper course of action. The incident team meets regularly to review status reports and to authorize specific remedies.
+
+Input/Output (I/O)
+Input/ Output is a general term for the equipment that is used to communicate with a computer as well as the data involved in the communications.
+
+Inspection certificate
+A declaration issued by an interested party that specified requirements have been met.
+
+Instant Messaging (IM)
+A service that allows people to send and get messages almost instantly. To send messages using instant messaging you need to download an instant messaging program and know the instant messaging address of another person who uses the same IM program. See also Spim.
+
+Integrity Star Property
+Integrity Star Property means a user cannot access or read data of a lower integrity level than their own.
+
+Intelligent Electronic Device (IED)
+Intelligent Electronic Device refers to any device incorporating one or more processors with the capability to receive or send data/control from or to an external source (e.g., electronic multifunction meters, digital relays, controllers).
+
+Internal escalation
+Internal Escalation is the process of reporting a security breach to a higher level of command with-in the department, division or company in which the breach occurred.
+
+Internet Service Provider (ISP)
+Internet Service Provider is the company through which an individual or organization receives access to the internet. Typically, ISPs provide email service and homepage storage in addition to internet access.
+
+IOCs
+Indicators of Comprom gnatures and IP addresses, MD5 hashes of malware files or URLs or domain names of botnet command and control servers. After IOCs have been identified in a process of incident response and computer forensics, they can be used for early detection of future attack attempts using intrusion detection systems and antivirus software. [Wikipedia]
+
+IP Address
+An Internet Protocol address (IP address) is a numerical label that is assigned to any device that is using Internet Protocol and is connected to an Internet network. An IP address allows network interface identification and location addressing.
+
+ISAC/ISAO
+Information Sharing and Analysis Centers is a nonprofit org that provides a central resource for gathering information on cyber threats to critical infrastructure.
+
+ISO
+The International Organization for Standardization (ISO) is an international standard-setting body that is composed of voluntary representatives from various national standards organizations.
+
+Kit-as-a-service
+Pre-bundled and popular because of ease of use for attackers. Customers can use a built-in dashboard with user-friendly web interfaces to tweak an attack campaign to fit their needs. Most kits are available both for purchase and for rent, thereby fitting into the budget of almost any computer criminal. Additionally, they are designed to provide a steady flow of traffic to an infected site. This ensures that customers can expect to receive a high return on their investment, especially if they go with one of the more notorious contenders in the field, such as Angler or Neutrino. Finally, many packages offer pay-per-install plans, in which customers need to pay only for each successful malware infection caused by the kit. Customers have the option of using an exploit kit to lock victims out of their computers (via ransomware), harvest credentials (via banking trojans), enlist infected machines into a botnet, or conduct targeted attacks.
+
+Leased circuit
+A leased circuit is a communications link between two locations used exclusively by one organization. In modern communications, dedicated bandwidth on a shared link reserved for that user.
+
+Light Tower
+Light Tower is a device containing a series of indicator lights and an embedded controller used to indicate the state of a process based on an input signal.
+
+Machine Controller
+A machine controller is a control system/motion network that electronically synchronizes drives within a machine system instead of relying on synchronization via mechanical linkage.
+
+Maintenance
+"Maintenance is any act of preventing malfunction of equipment or restoring its operating capability. any act that ither prevents the failure or malfunction of equipment or restores its operating capability. remote maintenance activities conducted by individuals communicating external to an information system security perimeter.
+
+Management Controls
+Management controls is the security controls (i.e., safeguards or countermeasures) for an information system that focus on the management of risk and the management of information security.
+
+Management system
+A set of processes used by an organisation to meet policies and objectives for that organisation.
+
+Mandatory Access Control
+In computer security, mandatory access control (MAC) refers to a type of access control by which the operating system constrains the ability of a subject or initiator to access or generally perform some sort of operation on an object or target.
+
+Manipulated Variable
+Manipulated variable is a process that is intended to regulate some condition, a quantity or a condition that the control alters to initiate a change in the value of the regulated condition.
+
+MASINT
+MASINT is a technical branch of intelligence gathering, which serves to detect, track and identify or describe the signatures (distinctive characteristics) of fixed or dynamic target sources. This often includes radar, acoustic, nuclear, chemical and biological intelligence.
+
+Mass Mailer
+Mass Mailer is a threat that self-replicates by sending itself through email. The threat obtains email addresses by searching for them in files on the system or by responding to messages found in the email client inbox.
+
+Master Program
+A master program is the program a black hat cracker uses to remotely transmit commands to malicious software. It is used to carry out large scale Denial of Service attacks or spam attacks.
+
+MDM
+MDM (master data management) is a comprehensive method of enabling an enterprise to link all of its critical data to one file, called a master file, that provides a common point of reference.
+
+Modem
+The modem is a device used to convert serial digital data from a transmitting terminal to a signal suitable for transmission over a telephone channel.
+
+Monitoring Software
+Software products that allow parents to monitor or track the websites or email messages that a child visits or reads. See also Blacklisting Software and Whitelisting Software.
+
+Motion Control Network
+Mission Control network is the network supporting the control applications that move parts in industrial settings, including sequencing, speed control, point-to-point control, and incremental motion.
+
+MSSP
+MSSP (managed security service provider) is an outsourced network security services. Businesses turn to managed security services providers to alleviate the pressures they face daily related to information security such as targeted malware, customer data theft, skills shortages and resource constraints.
+
+Network firewall
+A network firewall is a device that controls traffic to and from a network.
+
+NGFW
+Next Generation Firewall is an integrated network platform that combines a traditional firewall with other network device filtering functionalities such as an application firewall using in speed integrated network platform that performs deep inspection of traffic and blocking of attacks.
+
+NGIPS
+NGIPS (next generation intrusion prevention system) offers protection against advanced and evasive targeted attacks with high accuracy. Usually using a combination of technologies such as deep packet inspection, threat reputation, and advanced malware analysis, it provides enterprises with a proactive approach to security.
+
+NIPS
+NIPS (network intrusion prevention system) examines network traffic flows to detect and prevent vulnerability exploits. Following a successful exploit, the attacker can disable the target application.
+
+Operating System
+An operating system (OS) is a software that manages computer hardware and software resources to support the computer's basic functions. All computer programs require an operating system to provide the fundamental controls for controlling the computer. Popular operating systems include the Linux operating system, the Mac operating system and the Windows operating system.
+
+Operational Controls
+Operational Controls is the security controls (i.e., safeguards or countermeasures) for an information system that are primarily implemented and executed by people (as opposed to systems).
+
+Operational
+Threat Intelligence Information about specific impending attacks against the organization and is initially consumed by higher level security.
+
+OPSEC
+OPSEC (operations security) is a process by which we protect unclassified information that can hurt us.
+
+Passing off
+Passing off is making false representation that goods or services are those of another business.
+
+Password Cracker
+A password cracker is an application program that is used to identify an unknown or forgotten password to a computer or network resources. It can also be used to help a human cracker obtain unauthorized access to resources.
+
+Penetration Test
+A penetration test, is a method of evaluating the computer security of a computer system or network by simulating an attack from malicious outsiders. The process involves an active analysis of the system for any potential vulnerabilities from improper system configuration, or operational weaknesses in process or technical countermeasures. This analysis is carried out from the position of a potential attacker and can involve active exploitation of security vulnerabilities.
+
+Permissions
+Permissions is the authorized actions that a subject can perform with an object (that is read, write, modify or delete).
+
+Personal information 
+Personal data relating to an identifiable living individual.
+
+Photo Eye
+Photo eye is a light sensitive sensor utilizing photoelectric control that converts a light signal into an electrical signal, ultimately producing a binary signal based on an interruption of a light beam.
+
+Phreaker
+Phreakers are people who hack into a telecommunications system. Phreakers can hack into a system, circumvent telecommunications security systems by using electronic recording devices or simply creating tones with a whistle.
+
+Pressure Regulator
+A pressure regulator is a device used to control the pressure of a gas or liquid.
+
+Pressure Sensor
+Pressure Sensor is a sensor system that produces an electrical signal related to the pressure acting on it by its surrounding medium. pressure sensors can also use differential pressure to obtain level and flow measurements.
+
+Process Controller
+A process controller is a proprietary computer system, typically rack-mounted, that processes sensor input, executes control algorithms, and computes actuator outputs.
+
+Programmable Logic Controller
+A programmable logic controller (PLC), or programmable controller is an industrial digital computer which has been ruggedised and adapted for the control of manufacturing processes, such as assembly lines, or robotic devices, or any activity that requires high reliability control and ease of programming and process fault diagnosis.
+
+Proximity Sensor
+"A proximity sensor is a non-contact sensor with the ability to detect the presence of a target within a specified range.
+
+Real-Time
+Real time is pertaining to the performance of a computation during the actual time that the related physical process transpires so that the results of the computation can be used to guide the physical process.
+
+Redundant Control Server
+A redundant control server is a backup to the control server that maintains the current state of the control server at all times.
+
+Regression Analysis
+The use of scripted tests which are used to test software for all possible input is should expect. Typically developers will create a set of regression tests that are executed before a new version of a software is released.
+
+Relay
+Relay is an an electromechanical device that completes or interrupts an electrical circuit by physically moving conductive contacts. It's motion can be coupled to another mechanism such as a valve.
+
+Remote Access
+Remote access by users (or information systems) communicating external to an information system security perimeter.
+
+Remote Diagnostics
+Remote diagnostics refers to diagnostics activities conducted by individuals communicating externally to an information system security perimeter.
+
+Remote Maintenance
+Remote maintenance is maintenance activities conducted by individuals communicating external to an information system security perimeter.
+
+Remotely Exploitable
+Remotely exploitable vulnerabilities are those that can be exploited by attackers across a network. for example, vulnerabilities in web servers that can be exploited by web clients are remotely exploitable vulnerabilities.
+
+Resource Exhaustion
+Resource exhaustion is a kind of attack where the attacker or hacker ties up finite resources on a system, making them unavailable to others.
+
+Resource Starvation
+Resource Starvation is a condition where a computer process cannot be supported by available computer resources. It can occur due to the lack of computer resources or the existence of multiple processes that are competing for the same computer resources.
+
+Restore
+Restore refers to the recovery of data following computer failure or loss.
+
+Risk
+Risk is the probability of that a vulnerability in a system or network will be exploited for attack, both intentionally or accidentlly. The level of impact of having risk gives the potential impact of losing valuable and sensitive information.
+
+Risk Assessment
+Risk assessment is a systematic process to identify, analyze and evaluate any possible threats that may leave sensitive information vulnerable to attacks. It also employs methods to calculate the risk impact and eliminate the impact.
+
+Risk Management
+Risk Management is the process of managing risks to agency operations, assets, or individuals resulting from the operation of an information system. It includes risk assessment; cost-benefit analysis; the selection, implementation, and assessment of security controls; and the formal authorization to operate the system.
+
+Router Flapping
+Router flapping is a router that transmits routing updates alternately advertising a destination network first via one route, then via a different route.
+
+RPC Scans
+RPC scans determine which RPC services are running on a machine.
+
+Safety Instrumented System (SIS)
+SIS is a system that is composed of sensors, logic solvers, and final control elements whose purpose is to take the process to a safe state when predetermined conditions are violated. other terms commonly used include emergency shutdown system (ess), safety shutdown system (ssd), and safety interlock system (sis).
+
+SCADA Server
+SCADA Server is the device that acts as the master in a scada system.
+
+Scoping Guidance
+Scoping guidance is a part of tailoring guidance providing organizations with specific considerations on the applicability and implementation of individual security controls in the security control baseline.
+
+Screen scraper
+A virus or physical device that logs information sent to a visual display to capture private or personal information.
+
+Script
+A script is a file containing active content such as commands or instructions that are executed by the computer.
+
+Script Kiddie
+An individual uses existing codes to hack into a system, lacking the expertise to write their own. While they may not possess a lot of computing talent, they're easily as dangerous as hackers.
+
+Secret Seed
+A secret seed is a secret value used to initialize a pseudorandom number generator.
+
+Secure State
+Secure state is a condition in which no subject can access any object in an unauthorized manner.
+
+Security Audit
+Security Audit is an independent review and examination of a system's activity records to determine if system control is adequate. The process ensures compliance with established security policies, detect breaches in security, and recommend any changes. An independent professional security review that tests and examines a company's compliance with existing controls, the results of which enable an auditor to recommend necessary changes in security controls, policies and procedures.
+
+Security Kernel
+In computer and communications security, the security kernel is the central part of a computer or communications system hardware, and software that implements the basic security procedures for controlling access to system resources.
+
+Security Procedures
+Security Procesures is a set of detailed instructions, configurations and recommendations to implement company's security policies.
+
+Security-Relevant Change
+A security relevant change is any change to a system’s configuration, environment, information content, functionality, or users which has the potential to change the risk imposed upon its continued operations.
+
+Servo Valve
+A Servo Valve is an actuated valve whose position is controlled using a servo actuator.
+
+Session Hijacking
+Session hijacking is also known as cookie hijacking. It is an exploitation of a valid computer session, sometimes also called a session key, to gain unauthorised access to sensitive information or services in a computer system or network.
+
+Session Key
+A session key is a key that is temporary. It is an encryption and decryption key that is randomly generated to ensure the security of a communications session between a user and another computer or between two computers. These keys are sometimes called symmetric keys, because the same key is used for both encryption and decryption.
+
+Set Point
+An input variable that sets the desired value of the controlled variable. this variable may be manually set, automatically set, or programmed.
+
+Shoulder Surfing
+Shoulder Surfing is the act of looking over a person's shoulder to obtain confidential information. It is an effective way to get information in crowded places as one fill up a form, or enter a PIN number at an ATM machine.
+
+SIEM 
+Security information and event management (SIEM) is an approach to security management that seeks to provide a holistic view of an organization’s information technology (IT) security. The acronym is pronounced “sim” with a silent e.
+
+SIGINT
+Signals intelligence- intelligence gathering by interception of signals, whether communications are from people or from electronic signals not directly used in communication
+
+Signature
+A Signature is a distinct pattern in network traffic that can be identified by a specific tool.
+
+Single Loop Controller
+A single loop controller controls a very small process or a critical process.
+
+Skimming
+Skimming is a high-tech method by which thieves capture your personal or account information from your credit card, driver's license or even passport using an electronic device called a skimmer. Such devices can be purchased online for under $5.
+
+Snapshot
+A snapshot is a copy of a computer's memory in a specific point in time. The snapshot captures information such as primary storage and specific registers.
+
+Snooping tool
+A snooping tool is a program that an intruder uses to capture passwords and other data.
+
+Snort rules/Snort signatures
+Rules are a different methodology for performing detection, which bring the advantage of up window.
+
+SOC Security operations center
+A security operations center (SOC) is a centralized unit that deals with security issues on an organizational and technical level. A SOC within a building or facility is a central location from where staff supervises the site, using data processing technology.
+
+Social Networking Websites
+Social Networking sits are sites specifically focused on the building and verifying of social networks. Known social networking websites include Facebook, Twitter, LinkedIn, MySpace and Blogspot. The sites facilitate connecting with other users with similar interests, activities and locations.
+
+Socket Pair
+A Socket Pair is a way to uniquely specify a connection, i.e., source IP address, source port, destination IP address, destination port.
+
+SOCKS
+Socket Secure (SOCKS) is an Internet protocol that routes data packets between a client and server. It ensure proper authentication of users and allows only authorised users to access a server.
+
+Software Development Kit (SDK)
+A software development kit (SDK or “devkit”) is typically a set of software development tools that allows the creation of applications for a certain software package, software framework, hardware platform, computer system, video game console, operating system, or similar development platform.
+
+Solenoid Valve
+A Solenoid valve is a valve actuated by an electric coil. It typically consist of two states: open and closed.
+
+Source Port
+A source port is a port that a host uses to connect to a server. It is usually a number greater than or equal to 1 24. It is randomly generated and is different each time a connection is established.
+
+Spanning Port
+A Spanning port is used to configure the switch to behave like a hub for a specific port.
+
+Spim
+Spim is unwanted, unsolicited instant messages from someone you don't know. It is often sent in an attempt to sell you something or get you to reveal personal information.
+
+Spoofing
+A spoofing is the act of falsifying data to gain an illegitimate advantage. Black hat crackers will often cover their tracks by spoofing (faking) an IP address or masking/changing the sender information on an email so as to deceive the recipient as to its origin. Malicious spoof attacks are made to look like it come from a safe source, while linking to a page that will infect your system with malware.
+
+Spyware
+Spyware is software designed to gather information about a user’s computer use without their knowledge. Spyware can track a user’s internet surfing habits for advertising habits, scan computers to create pop up ads, and change one’s homepage to redirect to pre chosen websites.
+
+Statistical Process Control (SPC)
+Statistical Process Control is the use of statistical techniques to control the quality of a product or process.
+
+Steady State
+A steady state is a characteristic of a condition, such as value, rate, periodicity, or amplitude, exhibiting only negligible change over an arbitrarily long period of time.
+
+STIX
+STIX is a language for having a standardized communication for the representation of cyberthreat information. Similar to TAXII (see below), it is not a sharing program or tool, but rather a component that supports programs or tools.
+
+Supervisory Control
+Supervisory Control is used to imply that the output of a controller or computer program is used as input to other controllers.
+
+Supervisory Control and Data Acquisition (SCADA)
+SCADA is a generic name for a computerized system that is capable of gathering and processing data and applying operational controls over long distances. The typical uses include power transmission and distribution and pipeline systems.
+
+Supply chain
+A set of organisations with linked resources and processes involved in the production of a product.
+
+Tablet
+An ultra-portable, touch screen computer that shares much of the functionality and operating system of smartphones, but generally has greater computing power.
+
+Technical Controls
+Technical controls is the security controls (i.e., safeguards or countermeasures) for an information system that are primarily implemented and executed by the information system through mechanisms contained in the hardware, software, or firmware components of the system.
+
+Temperature Sensor
+A sensor system that produces an electrical signal related to its temperature which allows it to sense the temperature of its surrounding medium.
+
+Threat actor
+A person who performs a cyber attack or causes an accident.
+
+Tiger team
+A tiger team is a group of professional security experts employed by a company to test the effectiveness of security by trying to break in into the system.
+
+Trusted Ports
+Trusted ports are ports below number 1 24 usually allowed to be opened by the root user.
+
+Typical Threat Indicators
+Some typical threat indicators include: IP Address, hosts, eMail addresses, URLs, Files
+
+UDP Scan
+A UDP Scan performs scans to determine which UDP ports are open or vulnerable. UDP is a connectionless protocol so there is no equivalent to a TCP SYN packet. However, if a UDP packet is sent to a port that is not open, the system will respond with an ICMP port unreachable message.
+
+Unauthorized Access
+Unauthorized Access is when a person gains logical or physical access without permission to a network, system, application, data, or other resource.
+
+URL
+URL(or Uniform/Universal Resource Locator) is also known as the web address. It is a way of specifying the location of publicly available information on the Internet.
+
+URL Obfuscation
+URL Obfuscation is when scammers use phishing emails to guide recipients to fraudulent sites with names very similar to established sites. They use a slight misspelling or other subtle difference in the URL, such as ""monneybank.com"" instead of ""moneybank.com"" to redirect users to share their personal information unknowingly.
+
+User
+A User is any person or organization entity that accesses a system. Users generally use a system or a software product without the technical expertise required to fully understand it.
+
+User account
+The record of a user kept by a computer to control their access to files and programs.
+
+Username
+The name associated with a particular computer user.
+
+UTM/USM
+Unified Threat Management/Unified Security Management is a solution in the network security industry, and since 2 4 it has become established as a primary network gateway defense solution for organizations. In theory, UTM is the evolution of the traditional firewall into an all appliance reporting. [Wikipedia]
+
+Variable Frequency Drive
+A variable-frequency drive (VFD) is a adjustable-speed drive used in electro-mechanical drive systems to control AC motor speed and torque.
+
+VCDB
+VCDB is a community data initiative to catalog security incidents in the public domain using the VERIS framework. The database contains raw data for thousands of security incidents shared under a creative commons license. You can download the latest release, follow the latest changes on github, and even help catalog and code incidents to grow the database.
+
+VERIS
+The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry a lack of quality information. VERIS targets this problem by helping organizations to collect useful incident
+
+Virus
+A virus is a malicious program that attaches itself to another program file and can replicate itself and thereby infect other systems. Viruses often perform some type of harmful activity on infected host computers, such as acquisition of hard disk space or central processing unit (CPU) time, accessing private information (e.g., credit card numbers), corrupting data, or displaying messages on a computer’s screen.
+
+Vishing
+Vishing is the act of collecting private information from customers by fooling them into divulging confidential personal and financial information. People are lured into sharing user names, passwords, account information or credit card numbers, usually by an official-looking message that urges them to act immediately.
+
+Vulnerability
+A vulnerability is a flaw that allows someone to operate a computer system with authorization levels in excess of that which the system owner specifically granted.
+
+Vulnerability Assessment
+A vulnerability assessment is the process of identifying, quantifying, and prioritizing (or ranking) the vulnerabilities in the information technology system.
+
+War Dialer
+A war dialer is a computer program that automatically dials a series of telephone numbers to locate lines connected to computer systems, and catalogs those numbers so that a cracker or attacker can try to break into the systems.
+
+War Dialing
+War dialing is a technique of using a modem to automatically scan a list of telephone numbers, usually dialing every number in a local area code to search for computers, bulletin board systems (computer servers), and fax machines.
+
+Watering Hole
+A computer attack strategy, in which the victim is a particular group (organization, industry, or region). In this attack, the attacker guesses or observes which websites the group often uses and infects one or more of them with malware. Eventually, some member of the targeted group gets infected. Relying on websites that the group trusts makes this strategy efficient, even with groups that are resistant to spear phishing and other forms of phishing.
+
+White Hat
+White hats are ethical hackers who use. They use their knowledge and skill to thwart the black hats and secure the integrity of computer systems or networks. If a black hat decides to target you, it’s a great thing to have a white hat around. But if you don’t, you can always call on one of ours at Global Digital Forensics.
+
+Whitelisting Software
+A form of filtering that only allows connections to a pre-approved list of sites that are considered useful and appropriate for children. Parents sometimes use such software to prevent children from visiting all but certain websites. You can add and remove sites from the permitted list. This method is extremely safe, but allows for only extremely limited use of the Internet.
+
+WHOIS
+A WHOIS is a protocol used for query and response of a database. It is popular for querying databases that store data such as registered users, domain name, IP address block, or an autonomous system. The protocol stores and delivers database content in a human-readable format. The WHOIS protocol is documented in RFC 3912.
+
+Wi-Fi
+Wireless local area network based upon IEEE 8 2.11standards.
+
+Windowing System
+A windowing system is a system that is used for sharing a computer's graphical display presentation resources among multiple applications at the same time. A windowing system uses a window manager to keep track of where each window is located on the display screen and its size and status. A windowing system doesn't just manage the windows but also other forms of graphical user interface entities.
+
+Wireless Device
+Wireless device is a device that can connect to a manufacturing system via radio or infrared waves to typically collect/monitor data, but also in cases to modify control set points.
+
+Workstation
+Workstation is a computer used for tasks such as programming, engineering, and design.
+
+Worm
+A worm, like a virus, is a destructive self-contained program that can replicate itself. However, unlike viruses, a worm does not need to be part of another program and can self-replicate without user intervention. A worm can become devastating if not isolated and removed. Even if it does not cause outright damage, a worm replicating out of control can exponentially consume system resources like memory and bandwidth until a system becomes unstable and unusable.
+
+YARA
+YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples. With YARA you can create descriptions of malware families (or whatever you want to describe) based on textual or binary patterns. Each description, a.k.a rule, consists of a set of strings and a boolean expression which determine its logic.
+
+Zombie Drone
+Zombie drones are used to cover the black hat’s tracks and increase the magnitude of activities by using other’s resources. As zombies are benign and non destructive, the users infected are usually unaware that it is there.
+-Government spy agencies like the NSA also use this tactic and have tens of thousands of machines infected and basically own them.
+
+
+
+##############
+
+Kaspersky Glossary:
+
+
+Advance-fee fraud
+Synonym for 419 Scam
+
+Affiliate program
+In the field of information security, an affiliate program is a scheme for distributing potentially unwanted or malicious software through legitimate installers. App creators pay file-sharing site owners and affiliate program facilitators for covertly installing their developments on the victim computer. For this purpose, a special boot loader is usually created that not only adds third-party programs to the user’s chosen product, but sends information about the victim computer to the cybercriminals’ C&C server.
+Affiliate programs are most commonly used to distribute adware, but due to the lack of control on the part of their facilitators, they can be used to download Trojans and other malware.
+
+Allowlisting
+One method of filtering spam, an allowlist (formerly known as whitelist) provides a list of legitimate e-mail addresses or domain names: all messages from allowlisted addresses or domains are automatically passed on to the intended recipient.
+
+Artificial neural network (ANN)
+A mathematical model or algorithm represented as a system of interconnected nodes (neurons). Each neuron is a processor that converts an incoming signal into an outgoing one.
+The ANS topology is based on the principles of connections between neurons inside the human brain. The key advantage of such architecture is the potential to create a self-learning neural network for solving complex problems.
+In the field of information security, artificial neural networks can be used to recognize graphical objects (for example, to search for photographs of a person based on a pattern) or to detect new cyber threats.
+
+ATM jackpotting
+Hacking an ATM in order to manipulate the cash dispenser.
+Jackpotting can be carried out either by hacking bank software or with special equipment. Typically, an attack requires physical access to the bank terminal to upload malware or install a dispenser control device.
+Cybercriminals often use low-skilled “mules,” whose only task is to collect the cash and transfer it to the attack masterminds.
+
+Backporting
+The porting of a code snippet, module, or other part of a program to an older version of the software. In the field of information security, backporting refers to an attempt to install a patch for a vulnerability in the current build of an application on top of an earlier version. This is required when a vendor releases a security update only for the current release of an application (for example, when the outdated version is no longer supported). Backporting is most often performed by third-party developers and information security enthusiasts.
+
+BAT file
+A text file containing a sequence of commands able to be executed by the operating system. The BAT file standard used in Windows supports a minimum set of operators for creating scripts to automate routine operations and run applications. Cybercriminals can exploit BAT files to execute malicious scripts, but the lack of code obfuscation makes such elements readily detectable by antivirus scanners.
+
+A BEC attack is one in which the attacker uses social engineering to gain access to a corporate email account. Once inside, the cybercriminal can send phishing messages, spam, or malicious programs to recipients on behalf of the compromised company. One variant involves the use of an account with an address similar to the victim’s. Also known as CEO Fraud. Also See EAC and VEC.
+
+Birthday attack
+A method of cracking cryptographic algorithms through matches in hash functions. It is based on the birthday paradox, according to which the probability of two people sharing a birthday is far higher than it seems — for a group of 23 people, for example, the probability is 50%. Similarly, the probability of detecting a collision among target hash functions is much higher than might be expected, enabling an attacker to find matching fragments using fewer iterations.
+
+Black SEO
+Improving a site’s position in search results using methods that are banned or not approved by search engines. Black SEO deceives search robots in various ways, enabling content that is not relevant to a user request to top the search listing. An example of black SEO is the placing of web page text that is invisible to the user, but indexed by the search engine.
+Search engines try to overcome black CEO by tweaking their search robot algorithms.
+
+Blind hijacking
+A type of session hijacking in which the cybercriminal does not see the target host’s response to the transmitted requests. The attacker, being in a man-in-the-middle position, can only introduce malicious injections into the victim’s data packets, blindly guessing their sequence numbers and without receiving confirmation of success. Nevertheless, blind hijacking can be used, for instance, to send a command to change/reset a password.
+
+Blocker
+A type of ransomware that blocks a computer or mobile device, usually with a ransom demand. Unlike cryptors, blockers do not encode user data, but render the system unusable. Such malware typically displays a non-closeable message with a payment demand on top of all other windows.
+Sometimes blockers target individual applications, for example, a browser, instead of the device as a whole. A particular and not illegal instance of a blocker is one that displays a window prompting the user to buy the full version of a program at the end of a trial period.
+
+Bluejacking
+The sending of unsolicited, anonymous messages to a mobile phone via Bluetooth. The file format is VCF, which is used for exchanging contacts. The message text is placed in the vCard header, and appears on the screen of the target device. Bluejacking emerged in 2002 and is used mainly for jokes or to say hi to someone, as well as for marketing purposes. There is an unwritten set of rules in the bluejacker community about not disrespecting the target.
+
+Bluesnarfing
+Unauthorized access to mobile device data through a Bluetooth connection. Bluesnarfing attacks appeared in the early stages of developing data transfer technology and involved connecting to a third-party phone or tablet without the device owner’s permission. It enabled an attacker to secretly copy calendars, address books, images, and other personal information. In most modern operating systems and client programs, pairing two nodes via Bluetooth has to be confirmed on both sides, so Bluesnarfing attacks are now extremely rаare.
+
+Bodiless Malware
+Malicious software or program code that do not have a file body and are capable of working in the computer’s memory.
+
+Bulletproof hosting
+A type of website hosting with no or few restrictions on content. Bulletproof services are actively used by platforms such as online casinos, spam distribution sites, and pornographic resources. Such hosting tends to be several times pricier than usual.
+
+CAN (Controller Area Network)
+A data transfer protocol used to network heterogeneous devices and ensure reliable communication between them. Most often it takes the form of a bus that supports the transfer of data packets able to be received by all connected nodes. CAN is a communications standard in the automotive industry and is also used extensively in manufacturing and smart home systems.
+
+CAPTCHA
+A computer test to distinguish human from machine input. There are various methods, such as a distorted image that a computer cannot recognize, analysis of user behavior, logical questions, etc. CAPTCHAs are used by websites as an anti-spam and automatic registration prevention tool. To bypass CAPTCHAs, attackers use AI-based systems and other methods.
+
+Card-not-present (CNP) fraud
+Unlawful transactions performed without a bank card.
+
+CNP transactions include online purchases and phone orders — that is, transactions in which the seller cannot verify whether the buyer has a card and must rely on the information they provide. Payment validation is made using the card number, validity period, name and surname of the owner, and CVC code.
+Fraudulent CNP transactions use data for valid bank cards stolen through skimming or database hacking.
+
+Carding
+A fraudulent transaction using bank card details carried out without the owner’s knowledge. Attackers use card details stolen from the servers of payment systems, credit institutions, and retail stores. One way to get hold of card details is to create phishing pages with fake payment data entry forms.
+
+Closed-source software (proprietary software) 
+Is software whose author owns all rights to use, modify, and copy it. Software products that do not meet the requirements for open-source software are generally categorized as closed-source software.
+
+COM file
+An executable file in DOS and Windows operating systems. COM-type objects have a simple structure and store data, stack contents, and code in one segment. COM files have largely given way to the improved EXE format.
+
+
+Denylist (sometimes referred as blocklist, formerly known as blacklist) 
+A list of sites, programs, or other elements that are not allowed to be started or visited.
+
+DHCP snooping
+A series of techniques to protect against DHCP-based attacks. As part of DHCP snooping, trusted and untrusted ports are assigned on a switch. In the event that a DHCP packet arriving at an untrusted port does not match the legitimacy criteria, it is blocked. Potential markers of compromise of the incoming data are certain commands in the packet body or a mismatch between the sender’s MAC address and the value transmitted in the request.
+
+Disassembler
+A utility for converting an executable program file into source code in a low-level assembly language. Disassembling restores the text of a program for the purpose of figuring out how it operates. Information security experts use disassemblers to study malware.
+
+DLL hijacking
+DLL hijacking is an attack that substitutes a legitimate DLL file with a malicious library. It can be delivered either by a special loader embedded in the system or through user files processed by a program using the library. The result of DLL hijacking is the execution of third-party code in the environment of the compromised application.
+
+DNS amplification
+A type of DDoS attack in which a cybercriminal uses DNS servers to increase the amount of data transmitted to the target device. The attacker sends a relatively small look-up request to a vulnerable DNS host, substituting the victim computer’s IP address as the source. The server responds to calls with a much larger packet, but as a result of the IP spoofing transmits it to the target system. The DDoS attack is thus amplified through the generation of a large amount of junk traffic.
+
+DNS Changer
+DNS Changers are malicious programs that modify a computer’s DNS configuration settings, so that instead of the computer pointing to a legitimate DNS server, it points to a server under the control of the cybercriminals. The victim may be re-directed to advertisement web sites created by the cybercriminals, or to legitimate sites where advertisements have been replaced by the cybercriminals with their own.
+
+DNS-over-HTTPS (DoH)
+A technology for DNS data transmission and resolution using the secure HTTPS protocol. Unencrypted DNS lookups can be targeted by cybercriminals.
+DoH provides the necessary data encryption using HTTPS as a tunnel.
+One advantage of this method is that it performs better than traditional data exchange using a DNS server. DoH is a relatively new technology—Google and Mozilla included browser support for it only in 2018.
+
+Domain shadowing is a cybercriminal technique for avoiding detection of malicious pages by hacking a domain administrator’s account and creating multiple subdomains in the domain so as to bypass denylists.
+
+Domain tasting
+The short-term registration of a domain to test its monetization potential. The technique generally targets domains recently released or with an address similar to that of a popular site. Most often the new owner places a web resource on it with a view to earning advertising revenue. If the potential profits exceed the value of the domain, the buyer keeps it. If not, they cancel the application within the grace period granted by the registrar and receive a full refund.
+Domain tasting can also be used to send spam. After the grace period the attackers delete the domain, thereby covering their tracks.
+
+Double tagging
+A VLAN architecture concept defined by the 802.1ad standard. It differs from the original 802.1Q protocol by the presence of two tags indicating that the packet belongs to both the “external” and “internal” virtual network. Double tagging allows the tag address space to be expanded to 4095×4095, and helps to construct VLANs with a more complex architecture than typical virtual networks.
+
+Double tagging attack
+A type of VLAN hopping attack aimed at gaining unauthorized access to a VLAN. A data packet containing two VLAN tags is sent to a port accessible to the attackers, one tag belonging to a segment they can access, the other pointing to the closed target network. The first router to receive the packet checks and removes the attacker’s VLAN tag, and the data is transmitted to the second switch as a legitimate packet for the VLAN being attacked.
+
+Double-free
+One of the most common memory corruption errors caused by freeing the same memory location twice. Applications detect such a block of memory as two separate ones, and can assign it to two different data packets, producing a runtime error.
+DoS attacks can exploit this vulnerability to write data to arbitrary memory locations.
+
+Downgrade attack
+A downgrade attack is a form of cyber attack in which an attacker forces a network channel to switch to an unprotected or less secure data transmission standard. Downgrading the protocol version is one element of man-in-the-middle type attacks, and is used to intercept encrypted traffic. An example of a downgrade attack might be redirecting a visitor from an HTTPS version of a resource to an HTTP copy.
+
+Emulation
+A technology, that executes code in the an artificial environment before they are actually launched, therefore allowing the detection to be made without letting the suspect loose within an actual system.
+
+EMV
+EMV is a plastic card standard codeveloped by the payment systems Europay, Mastercard, and Visa and named for the first letters of their respective names.
+EMV cards’ enhanced security comes from an embedded chip called Secure Element. The chip can run applications and exchange commands with point of sale terminals. Information stored on the chip is protected, so reading information from the chip is significantly harder than reading it from a magnetic stripe.
+
+Types of EMV cards
+Two types of EMV cards are available:
+
+Chip-and-PIN cards,
+Chip-and-Signature cards.
+
+Exploitation in the wild (ITW)
+A term defining the scope and impact of malicious software. In-the-wild malware is active and can be found on devices belonging to ordinary users. Such programs threaten the security of real data, unlike samples stored on computers for research purposes.
+
+Fake anti-virus
+Fake anti-virus programs prey on people’s fear of malicious software.
+They are typically installed when someone clicks on a link in an e-mail, or clicks on an item listed after a search engine query, or clicks on a rogue advert on web pages.
+When launched, the fake anti-virus program claims to find malware on the victim’s computer, but requests payment in order to remove it.
+Not only does the victim hand over money to fix a problem that doesn’t exist, but their card details can be used fraudulently by the cybercriminals behind the scam.
+
+False flag
+A false flag is a cyber attack that tries to pin the blame for a malicious campaign on a particular entity, organization, or state. A number of tools are used to link the covert operation to the target entity. For example, blocks of code known to have been developed by this entity can be embedded in the code of the malware used in the campaign.
+
+Disinformation can be used to protect the campaign masterminds, or it might be the primary purpose of the operation, while destructive actions only draw attention to the incident.
+
+Fast Flux
+A technology for hiding the IP addresses of cybercriminal servers by manipulating DNS settings. Fast Flux uses the legitimate technique of linking multiple IP addresses to a single domain name. The cybercriminals control an ever-changing network of botnet devices acting as physical servers. This complicates the task of monitoring the criminal traffic, since the address of the data packet recipient changes regularly.
+A Fast Flux network can only be created in tandem with the domain name registrar, so the majority of such botnets are controlled from inside countries with weak cybercrime legislation.
+
+Fork
+A software product created on the basis of the code of another system and representing a development branch of the source project. Most forks are released under a free and open-source software license.
+
+Fork bomb
+A computer program that intentionally or due to a coding error creates endless copies that can also start multiplying uncontrollably. It is named after the fork() function, which exists in many programming languages. Fork bombs are deployed in denial-of-service attacks, since the running copies of the program increase in number exponentially and quickly fill all available memory.
+
+Form grabbing
+Malicious technique that tries to steal authorization credentials from a web data form before it is passed to a secure server via encrypted protocol.
+
+Fuzzing
+A software testing method whereby intentionally incorrect data is input and the reaction of the test subject is monitored. Fuzzing is performed with a view to identifying memory use issues and security weak spots.
+
+Geofencing 
+A technology for setting virtual boundaries and triggering events when these boundaries are crossed by a mobile device on which certain software is installed. Various geolocation technologies, such as GPS or triangulation of a signal from Wi-Fi access points or cell towers, determine whether the device has crossed the boundary.
+
+Glitching
+Use of computer system’s deficiencies to bypass individual limitations. Being in essence equal to a hack or exploit, glitching carries less danger from the attacker’s actions, often not meaning to cause any harm at all. The term is widely used in computer games, where it refers to use of known bugs to gain advantage or just have fun. Typical examples of glitching include passing through a wall or getting outside the map boundaries.
+
+Hard link
+A file structure element with information about the directory in which the file is contained. A hard link establishes a connection between segmented data blocks on the drive and the file location in terms of the file system. A file can have several hard links, in which case it is displayed in several folders. But the file system views it as one object.
+A file without hard links is not visible to the file system, and the disk areas that it occupies are considered free.
+
+Heaven’s Gate
+A method for running 64-bit code in a 32-bit process. It is leveraged by cybercriminals to disguise malware and bypass security scanners to deliver a payload. The technique exploits a 64-bit handler embedded in a 32-bit Windows process for compatibility purposes. First described in the mid-2000s by a hacker under the pseudonym Roy G. Biv, it has been deployed in several malicious campaigns.
+
+Hooking
+Techniques used to alter or augment the behavior of an operating system, applications or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a hook.
+
+ICO (Initial coin offering)
+An ICO is the initial sale of a limited amount of cryptocurrency to investors. It is a way to raise financing (often through crowdfunding) and issue coins for the first time. Besides tokens, the issuer can offer buyers additional services or privileges.
+ICO investors expect to profit by selling their coins at a higher price after the initial issue.
+
+Initialization Vector (IV)
+A random or pseudorandom sequence of characters added to an encryption key to enhance security. An initialization vector (IV) complicates determining patterns in a series of data containing cryptographic signatures, and makes it more resistant to hacking.
+The IV does not require encryption and is usually transmitted along with the cryptographic key. Sometimes the IV is generated according to certain rules based on the signature itself. In this case, there is no need to transfer the IV to the recipient, since the latter can recover it independently.
+
+International Revenue Share Fraud (IRSF)
+A type of telephone fraud that utilizes technical means to make unauthorized calls to premium numbers. Cybercriminals use hacked phones, stolen SIM cards, and compromised corporate PBXs to direct calls to their own or leased lines with billing of incoming connections. Another IRSF attack method is a drop-call that forces the victim to call back a premium number.
+
+iSCSI
+A computer protocol for transmitting SCSI commands over TCP/IP. iSCSI is used to create distributed data storage systems and dynamically connect additional disk space to the server. The storage can be located at a considerable distance from the server and interact with the control center over the local network or the Internet.
+
+KRACK — Key Reinstallation Attack
+A KRACK attack is a cyber attack aimed at compromising a Wi-Fi channel with WPA2 encryption. At the third stage of four-way validation of the cryptokey, the cybercriminal can resend the secret sequence and weaken the security of the connection. A KRACK attack can result in traffic interception, spoofing, or the transmission of falsified data packets to the client.
+
+Landing Page
+A landing page is a website that receives traffic from an online ad. Landing pages are usually specially created resources tied to an advertised product or service. The purpose of the landing page is to persuade the visitor to perform a specific action: make a purchase, subscribe to a newsletter, or order a callback. To achieve this objective, the authors of such pages use a variety of psychological techniques that involve promoting the benefits, posting positive feedback, and so on.
+
+Living off the Land (LotL) attack
+A Living off the Land (LotL) attack describes a cyberattack in which intruders use legitimate software and functions available in the system to perform malicious actions on it.
+Living off the land means surviving on what you can forage, hunt, or grow in nature. LotL cyberattack operators forage on target systems for tools, such as operating system components or installed software, they can use to achieve their goals. LotL attacks are often classified as fileless because they do not leave any artifacts behind.
+
+LotL tools
+Most LotL attacks employ the following legitimate tools:
+
+PowerShell, a script-launching framework that offers broad functionality for Windows device administration. Attackers use PowerShell to launch malicious scripts, escalate privileges, install backdoors, and so on.
+WMI (Windows Management Instrumentation), an interface for access to various Windows components. For adversaries, WMI is a convenient tool for accessing credentials, bypassing security instruments (such as user account control (UAC) and antivirus tools), stealing files, and enabling lateral movement across the network.
+PsExec, a remote command execution tool that adversaries use to implant malicious code.
+Mimikatz, a security scanning tool for Windows that logs user credentials.
+
+Log file
+An electronic document or file that records all actions and events in a system in chronological order, as well as error messages and other incidents. It is used to analyze the operation of an object. Such object can be a computer, server, web resource, operating system, or separate application.
+Unauthorized access to a log file or the logging of confidential information can cause data leakage.
+
+Magic number
+A magic number is a number that is explicitly defined in the code of a computer program without detailing its purpose. The use of uncommented magic numbers is a sign of a poor programming style. An exception is signatures used to identify a specific object. For example, all files in PNG format begin with the constant 89 50 4E 47 0D 0A 1A 0A, which corresponds to the hexadecimal equivalent of the text string “.PNG…”
+
+Malware-as-a-service (MaaS)
+The lease of software and hardware for carrying out cyber attacks. Owners of MaaS servers provide paid access to a botnet that distributes malware. Typically, clients of such services are offered a personal account through which to control the attack, as well as technical support.
+
+Man in the Disk (MitD)
+A type of cyber attack on devices running Android in which malware installed on a smartphone or tablet targets an app through files located in external storage.
+Unlike in internal memory, apps are not isolated from each other in this space, so cybercriminals are able to substitute or modify temporary files or updates stored there.
+
+Mean Time to Respond (MTTR)
+Mean Time to Respond (MTTR, sometimes written as Mean Time to Response) is the average time required to return a system to operational condition after receiving notification of a failure or cyberattack.
+
+mTAN (Mobile transaction authentication number)
+A one-time password sent via SMS used by online services as a second layer of security to authorize transactions.
+
+NFC (Near Field Communication)
+A technology of wireless data transfer that allows exchanging data in close proximity with no risk of losing them or having them intercepted. The advantages of the technology are the short connection time (less than one tenth of a second) and no need for an internet connection. The technology is primarily used in mobile contactless payments.
+
+Noise contamination
+Modifying the content of spam with the aim of bypassing mail system filters.
+Most email service providers automatically scan the text of incoming mail to weed out scam or unsolicited messages. To circumvent security barriers, cybercriminals add “noisy” words or symbols to the message text to mislead machine-learning algorithms,
+while keeping the content of the message readable to the recipient.
+
+Examples of noise contamination:
+
+Using Latin characters that look the same in Cyrillic
+Using numbers instead of letters and vice versa (for example, 0 instead of O).
+Separating letters in a word with spaces or dashes
+Adding unreadable or invisible characters to the message
+Adding “clean” links, extracts from literary works, or other non-suspicious text to the message
+
+OpenID
+An open decentralized user authentication standard. By creating an account with an OpenID provider, it is possible to use the same credentials to sign into different online resources that use OpenIDs. Moreover, the user is the one who determines which account to use for login purposes and what information will be available to third-party sites.
+
+Over the air (OTA)
+A software update method that involves sending the latest versions via Wi-Fi or a mobile data transfer network.
+A key feature of the technology is the centralized distribution of the installation package to a wide circle of recipients. OTA is simpler for users than previous technologies for updating mobile device software, since the only action required of them is to confirm the installation.
+
+Parser
+A program or service for data search based on certain rules. The parser processes information according to specified criteria and outputs it in a structured form. The input can take the form of a key phrase or any sequence of characters, as well as object characteristics, such as type, file size, or geolocation.
+Unlike with an API, parsing does not involve securing permission from the owner of the donor resource to use the data. As a result, there are often legal issues around content obtained with a parser.
+In the field of information security, parsers are used to analyze logs and search for traces of malware activity.
+
+Pass-the-hash attack
+A cyberattack that circumvents the authorization mechanism in NTLM or LM protocol. The technique uses the hash of a user’s password en-route to the server: generated without salt, it has the same value for each one of the user’s sessions. The attacker needs not extract the secret key – it is enough to intercept the hash and use it for authentication.
+
+Personally identifiable information (PII)
+Any information that helps identify a particular individual. PII includes given name, surname, passport number, and other information that can be used, directly or indirectly, to identify a person. All PII must be stored and processed in accordance with the law.
+
+PPC (Pay per click)
+Malware distribution technique in which attackers get paid by the customer per click on payload download link. It makes no difference whether the victim has installed malware or left the criminal resource without downloading it.
+
+PPI
+Malware distribution system in which attackers get paid by the customer per payload installed. The number of hack attempts, spam messages delivered or visitors attracted to the criminal resource is irrelevant. Thus, no payment is due if user follows a download link but fails to actually download malware.
+
+Proactive detection
+This is a generic term for technologies used by an anti-malware product to detect new, unknown threats, without the need for a specific signature.
+They include heuristics, behavioural analysis, application allowlisting and exploit detection.
+Anti-malware programs have never relied exclusively on signature analysis.
+However, as malicious programs have become more numerous, faster spreading and more dangerous, the role of proactive detection technologies has grown.
+
+Process Doppelgänging
+Process Doppelganging is a cyber attack that substitutes a legitimate process for malware in the Transactional NTFS file system. The attacker creates a copy of an executable file in the device memory and injects malicious code into it. Next, the cybercriminal uses undocumented Windows functions to load the compromised sample instead of a verified process, and then cancels the changes made.
+As a result, the executable file on the hard disk remains uninfected, but in the device memory there is a malicious process under the guise of a legitimate task.
+
+Pump-and-dump
+Pump and dump is a fraudulent scheme that attempts to manipulate the value of a currency or securities by artificially inflating (pumping) the price in order to sell (dump) money or stock at a profit. The first stage generally involves disseminating false information among inexperienced market participants to create a bubble. After that, the scammers sell their assets and make a killing.
+In the field of information security, the term usually refers to cryptocurrency.
+
+Repack
+An installation kit created by a third-party developer. A repack can be designed to reduce the size of the original distribution through more efficient compression methods, or to place multimedia content in other containers.
+Computer pirates, too, release own builds of licensed programs. Such repacks usually include a crack to bypass the protection system.
+Another repack option is to create installation kits out of different applications from a range of vendors. For example, additional utilities missing in the original distribution can be included in the operating system build.
+Regardless of the stated purpose, repacks can pose a threat and contain malware.
+
+RFID (Radio-Frequency Identification)
+RFID technology is based on the reading and processing of radio signals received from special tags attached to objects. Such RFID tags, consisting of an antenna and a microchip, are called transponders. The antenna picks up the signal from the RFID reader, transmits it to the microchip, and converts the received electromagnetic waves into energy, which it uses to process the request and transmit a response.
+Active RFID tags with a built-in energy source can be used to increase the reading range.
+RFID is widely deployed in commerce, transport, airport baggage systems, and other fields.
+
+Rooting malware
+A malicious program that infects Android phones and tablets to gain root privileges and take full control over the device. After compromising the mobile platform, a rootkit can run adware, delete or install applications, and copy confidential information.
+Such malware usually ends up on the device through spam or phishing sites. Sometimes rootkits do not have their own destructive payload, but act as a means to deliver other programs to the infected system.
+
+Teardrop
+A type of DoS attack that is especially effective against devices running outdated operating systems (Windows 95, Windows NT, old versions of Linux). Under the method, fragmented packets that cannot be reassembled into a single object are sent to the target host address. This is achieved through manipulating the fragment offset field in the packet header, which indicates the offset of the fragmented packet, that is, its position relative to the data in the original packet.
+In a teardrop attack, the fragment offset field contains the wrong value. This causes the packets to overlap during reassembly, which can lead to a crash. Most modern operating systems are immune to this kind of attack.
+
+Technical support scam
+A type of computer fraud in which cybercriminals impersonate legitimate customer support teams. The aim is to obtain financial reward for resolving bogus issues. The techniques employed can be either technical (for example, locking the computer screen) or psychological—when the victim is persuaded that their computer is infected with a virus or underperforming.
+Sometimes cold calls are made to unsuspecting users with the aim of gaining remote access to their computer or eliciting their bank card details or other confidential information. Remote access to the device can be a means to install malware.
+
+Text Bomb
+A text bomb is a fragment of text containing characters that can affect the operation of an app or device. Text bombs are usually triggered by software bugs that result in certain characters or their combination being processed incorrectly.
+An example is the 2018 text bomb containing Unicode characters from the Indian language Telugu that caused Apple devices to crash. The bug was later fixed.
+
+Threat hunting
+Threat hunting is the process implemented for proactive detection of malicious activity in computer networks.
+The purpose of threat hunting is to detect cyberattacks that evade traditional defenses, such as firewalls or antivirus monitoring systems. It involves a manual or computer-aided search for and analysis of indicators of compromise (IoCs).
+Threat hunting should be seen as an addition to existing protection systems, rather than a replacement for them, allowing for early detection of new and sophisticated threats in the network. It is the proactive nature that distinguishes threat hunting from traditional protection methods.
+
+Hunting Maturity Model
+The Hunting Maturity Model (HMM) is a system used to assess a company’s readiness for a proactive threat search. The “maturity” level depends on what tools and methods are available to and used by the business; there are five in total:
+
+Initial (HMM0) — the company relies primarily on traditional security systems. At the same time, minimal information is collected from key elements of the IT infrastructure.
+Minimal (HMM1) — analysts regularly collect information from the IT infrastructure and make use of cyberintelligence data.
+Procedural (HMM2) — the company uses standard threat-hunting scenarios. At this level, infosec experts collect and analyze a large amount of data but do not develop their own threat-hunting procedures.
+Innovative (HMM3) — infosec experts collect and analyze a large amount of data, develop and implement their own threat-hunting methods, and use them on a regular basis.
+Leading (HMM4) — infosec experts not only develop threat-hunting and analysis methods, but automate them as well. This helps to reveal more threats and lets analysts focus on improving the detection system and the company’s overall protection.
+
+Trojan Clicker
+A malicious program that installs itself on a computer or other device under the guise of legitimate software. A clicker’s primary function is to make unauthorized calls to third-party resources. The motive could be to launch a DDoS attack, generate revenue from clicks on advertising links, or, conversely, increase the victim’s costs (click-frauding a competitor by wasting its PPC budget).
+
+Trojan Miner
+A program for generating cryptocurrency installed on a device illegally without the owner’s knowledge. Mining electronic money requires a lot of computing muscle, so attackers use compromised computers to set up a distributed network to create new blocks of cryptocurrency.
+
+Trojan Spies
+Trojan Spies, as the name suggests, track the victim’s activities, save the information to the hard disk and then forward it to the author or ‘master’ of the Trojan. The information collected includes keystrokes and screen-shots.
+
+Trojan-PSW, PSW – Password Stealing Ware
+Malware type designed to steal passwords and other account information. Stealers extract stored secret keys from browsers and other utilities, analyze cache and cookie files, and gain access to cryptocurrency wallet data. The data collected by Trojans is usually sent to the command server.
+
+Use-After-Free
+Use-After-Free (UAF) is a vulnerability related to incorrect use of dynamic memory during program operation. If after freeing a memory location, a program does not clear the pointer to that memory, an attacker can use the error to hack the program.
+
+Use-After-Free
+Use-After-Free (UAF) is a vulnerability related to incorrect use of dynamic memory during program operation. If after freeing a memory location, a program does not clear the pointer to that memory, an attacker can use the error to hack the program.
+
+Web injection
+A technology that allows to change a web page content on a client’s side and add one’s own content via injecting a malicious code into the browser address space and intercepting all the http requests and responds from the server.
+
+Wildcard certificate
+An SSL certificate that protects multiple subdomains on a single site. For example, one wildcard certificate can be used to sign resources located on the domains:
+
+example.com
+test.example.com
+promo.example.com
+www.example.com
+Since the certificate covers only one level of subdomains, the site www.test.example.com would not be able to use the same digital signature. RFC 6125 discourages the use of wildcard certificates on security grounds.
+
+Windows Registry Virtualization
+A technology used in Windows operating systems since Vista. Registry virtualization is intended to ensure the compatibility of programs developed for earlier releases of the OS. The need arose because most pre-Vista applications ran under Windows with administrator rights and accessed system elements in the registry. When such applications are started in Windows Vista and later OS versions, registry virtualization automatically redirects requests from system partitions to user ones. For example, a call to HKEY_LOCAL_MACHINE\Software is redirected to HKEY_USERS\_Classes\VirtualStore\Machine\Software.
+
+Wiper
+A type of malware, the purpose of which is to wipe (erase data from) the hard drive of the computer it infects.
+
+XDR (extended detection and response)
+XDR, which stands for “extended detection and response,” is a class of automated information security systems designed to proactively detect threats at various infrastructure levels, respond to them, and counter complex threats.
+XDR comprises a wide range of tools that security specialists can integrate with available security programs and applications to perform data monitoring on endpoints, the network, the cloud, and mail servers. It also adds analytical and automation functions for the detection and elimination of current and potential threats.
+
+Differences between XDR and other information security systems
+Some cyberdefense tools are comparable to XDR systems but serve more specific purposes and have fewer features. For example:
+
+EDR solutions offer protection only at the endpoint level, without network or cloud services;
+SIEM is functionally limited to collecting and analyzing local network data; it does not include response capabilities;
+UEBA tools analyze the behavior of users, devices, and applications but do not respond to anomalies;
+SOAR systems encompass most of the infrastructure but focus on signatures and standard response scenarios and lack proactive defense capabilities. Compared to XDR, SOAR solutions are also less compatible with solutions and applications that serve as data sources.
+
+XXE (Xml eXternal Entity)
+A computer attack based on insufficient validation of an incoming XML file. If the system is able to receive data in this format, a link to external objects or local resources of the target system can be inserted by an intruder into a document being transmitted.  If content validation is weak, the payload is delivered to the target device and then used for malicious activity. In addition, an XXE attack can give access to confidential data stored on compromised devices.
+
+
+
+######################
+
+
+Voice:
+
+
+Hosted PBX
+A virtual, cloud-based phone system
+
+POTS 
+Refers to Plain Old Telephone Service. Most carriers are again phasing this traditional service out for IP-based voice services. Nonetheless, POTS lines still have a place with many companies. POTS service is still the preference for Alarm, Emergency, and Fax use.
+
+SIP Trunking
+Session Initiated Protocol (SIP) enables the digital streaming of voice and data, thereby using Voice over Internet Protocol (VoIP) technology for telephony services
+
+Unified Communications as a Service (UCaas)
+A solution that offers simplified message management that keeps messages organized into a single interface, accessible from a variety of different devices
+
+Voice PRI
+A 24 channel voice T1 with a channel dedicated to data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
