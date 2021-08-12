@@ -1,0 +1,733 @@
+
+
+This is an updated glossary based on our years in Sunbelt Software as an antivirus developer, and in KnowBe4 as a Gartner Leader in the security awareness training space. We are sharing it here as a resource. Each letter starts with acronyms in alphabetical order, then full words. (last updated Nov 3, 2020)
+https://www.knowbe4.com/knowbe4-glossary/#P
+
+A
+ACH
+Automatic Clearing House, companies that do Electronic Funds Transfers. There is a tremendous amount of cybercrime and fraud connected to this area.
+
+ASLR
+Address Space Layout Randomization. A security feature in the Windows OS which randomly assigns executable code to 256 potential RAM locations, trying to protect against buffer overflow attacks.
+
+ActiveX
+The brand name of a group of Microsoft technologies that allow for special additional features in HTML. You implement ActiveX with “controls”, but using these can open the door to hackers as it makes the attack surface a lot bigger.
+
+Advance-fee fraud
+A type of scam in which a cybercriminal persuades a potential victim to help transfer a substantial amount of money to an account. The victim is offered a commission for facilitating the transaction or multiple transactions. Many Nigerian scams, also called the 419 scam, are a prime example of advance-fee fraud.
+
+Agile Software Development
+Fast and flexible software development methodology that is used by KnowBe4 for rapid development of our products. See Wikipedia.
+
+Angler Phishing
+Angler phishing is the practice of masquerading as a customer service account on social media, hoping to reach a disgruntled consumer.
+
+Anti-Phishing Working Group
+The Anti-Phishing Working Group (APWG) is an international consortium that brings together businesses affected by phishing attacks, security products and services companies, law enforcement agencies, government agencies, trade association, regional international treaty organizations and communications companies. See Wikipedia.
+
+Anti-Spyware Coalition (ASC)
+The Anti-Spyware Coalition (ASC) is a group dedicated to building a consensus about definitions and best practices in the debate surrounding spyware and other potentially unwanted technologies. 
+
+AV-test.org
+An organization in Germany run by Andreas Marx, which provides independent antivirus testing for AV Vendors and for magazines like PCWorld. They are here.
+
+BIC
+Best In Class. 
+
+BGP hijack
+BGP hijacks (Border Gateway Protocol) take place when an ISP announces the wrong Internet route to a specific destination. In most cases, BGP hijacks are accidents, such as typos, and result in worldwide Internet providers sending large swaths of traffic to the wrong servers. But there are also incidents when malicious ISPs intentionally announce a wrong BGP route in order to hijack traffic meant for particular targets, such as crucial DNS servers, financial services, government sites, military domains, and more. The purpose of these malicious BGP hijacks is the have traffic meant for those targets flow through the malicious ISP's network, where it can sniff its content or carry out Man-in-the-Middle attacks. For instance, this really happened. all traffic for Washington DC was routed to China for a few hours. Guess who was sniffing the data... 
+
+BHO
+Browser Helper Object. Designed by Microsoft with the best of intentions, BHO’s were intended as ‘plug-ins’ to add functionality (like toolbars) to Internet Explorer. Unfortunately, malware authors have also exploited the power of BHO’s for other purposes such as spreading malware.
+
+Baiting
+Baiting means dangling something in front of a victim so that they take action. It can be through a peer-to-peer or social networking site in the form of a (porn) movie download or it can be a USB drive labeled “Q1 Layoff Plan” left out in a public place for the victim to find. Once the device is used or malicious file is downloaded, the victim’s computer is infected allowing the criminal to take over the network.
+
+Backlog
+Term from Agile software development. Also called ‘Sprint Backlog’. It is a list of items left to be done. See ‘Agile’, ‘Burndown’, and ‘Sprint’.
+
+Battlecard
+A document that Sales uses internally, which lists the strengths and the weaknesses of a specific competitor combined with the strengths of our own product.
+
+Banker Trojan
+Banker Trojans, designed to steal financial information entered into browser-based online forms are the cybercriminals’ answer to the crackdown on keylogging. In addition to snatching form input, Banker Trojans are also designed to trick users into visiting web sites designed to look authentic. Once there, users are prompted for personal information causing identity theft.
+
+Bayesian filtering
+An old-ish statistical method mainly used as a baseline to filter out spam which does not work very well. The bad guys have found many ways around it.
+
+Behavioral Detections
+Antivirus detects malware using signatures, heuristics and behavior. The behavior-based method varies by product.
+
+Beta Testing
+Testing performed by a group of customers in a live application of the software, at one or more end user sites, in an environment not controlled by the developer.
+
+Bloatware
+Software that takes a lot of CPU and Memory resources while running on the computer. Antivirus companies have been adding more and more code over the years to protect against increasingly sophisticated malware. But they are using LOTS of CPU and RAM to do it, and so system admins call these traditional AV vendors as creating ‘bloatware’.
+
+Blob 
+A Binary Large Object, and indicates some large amount of data other than just simple text, usually stored within a database.
+
+Bogus Redirection 
+A process that captures traffic addressed to a legitimate website and sends (redirects) it to a different website instead. Some malware does automatic redirection to fool users into thinking they’re interacting with a valid and legitimate site rather than a malicious one.
+
+Boot Virus 
+A virus that infects the Master Boot Record (MBR) of a hard disk drive.
+
+Bulletproof Hosting
+A service provided by some domain hosting or web hosting firms that allows their customer considerable leniency in the kinds of material they may upload and distribute. This leniency has been taken advantage of by spammers and providers of online gambling or illegal pornography. Many if not most 'bulletproof hosts' are in China, other parts of Asia, and Russia/Russia's surrounding countries, though this is not always the case.  For example, McColo, responsible for 2/3rds of the world's spam when taken down, was US based.
+Bulletproof hosting providers have a high rate of turnover, as many hosting providers choose to shut down, whether forcibly or voluntarily, if their alternative would be to compromise client freedom (as this is their main selling point).
+
+Burndown
+A term used in ‘agile’ software development, a method that KnowBe4 uses. The burndown chart is a publicly displayed chart showing remaining work in the sprint backlog. Updated every day, it gives a simple view of the sprint progress. It also provides quick visualizations for reference. See ‘Scrum’, and ‘Sprint’.
+
+Browser Hijacker
+A malicious piece of software that changes the web browser’s settings without the permission of the user. Examples: change the Home page to another site, changes the search engine default page and other activities, generally attempting to force hits to a certain website to boost that site’s advertising revenue.
+
+C
+C&C server aka "C2" server
+Command & Control Server used to run botnets. See ‘Botnet’.
+
+CARA 
+Compliance Audit Readiness Assessment. CARA is a free tool that helps you gauge your organization’s readiness in meeting compliance requirements for the CMMC.
+
+CEO Fraud
+Spear phishing attacks focusing on people in Accounting, claiming they are the CEO and to urgently transfer large amounts of money. CEO fraud is a form of social engineering that took flight during 2015. 
+
+CDSBA
+California Database Security Breach Act. CA State law which requires disclosure to CA residents if their PII or PHI has been stolen or is believed to have been stolen (See PII and/or PHI). If more than 500 records are stolen, lawyers almost immediately file a class-action lawsuit.
+
+CDW 
+CDW is the world's largest high-tech reseller. They are a DMR, a Direct Market Reseller also known as an e-tailer which is a company that sells directly to consumers online without operating storefront operations of any kind.
+
+CIA
+No, not the Langley guys. Information Security term meaning Confidentiality, Integrity, and Availability. It is a model designed to guide policies for information security within an organization. Confidentiality is a set of rules that limits access to information. Integrity is the assurance that the information is relevant, accurate and trustworthy. Availability is a guarantee of ready access to the information by authorized people.
+
+CMMC
+Cybersecurity Maturity Model Certification (CMMC) framework, required by the US Department of Defense (DoD),
+
+COPPA
+Children’s Online Privacy Protection Act. A U.S. Federal Law that requires owners of social media sites and websites directed at children under 13 to get parental consent before the site collects and uses the child’s personal information.
+
+Covenant
+A non-compete clause restricting offer acceptance to competitors 
+Catfishing
+A scheme in which a person uses social media to pretend to be someone they’re not, typically to engage in misleading online romances. To “catfish” is to “lure someone into a relationship by adopting a fictional online persona.” The person doing the deceiving is the catfish.
+
+Cloud-based
+A computing model where a company does not have its own servers, but rents server space in large datacenters. KnowBe4 lives in the Amazon cloud.
+
+Code Complete
+A stage of the software release life cycle when all the features are coded. At this point lots of testing and a Beta test is needed before the software would be ready for release. See ‘PMD’. See Wikipedia.
+
+Code Signing Certificate
+When a software company releases a software product they should sign the application with a code signing certificate that identifies the application as created by them and that the application has not been modified by anyone else. Antivirus companies use this for whitelisting of good applications by the company that signed the application, for example DELL, Microsoft, Apple, etc. They also use this for blacklisting all applications from certain companies like known to create unwanted software.
+
+Company Extinction Event (CEE)
+A bug so severe that it would cripple the service you provide so bad, that it would kill the whole company. For instance, antivirus are very powerful engines, so it has the power to bite very hard and make a brick out of people’s workstations instantly, by the millions. It almost happens now and then to most antivirus companies who regularly dodge bullets like this. 
+
+Compatibility Testing
+The process of determining the ability of two or more systems to exchange information. In a situation where the developed software replaces an already working program, an investigation should be conducted to assess possible comparability problems between the new software and other programs or systems.
+
+Computational Propaganda
+The use of algorithms, automation, and big data to shape public life – is becoming a pervasive and ubiquitous part of everyday life.
+
+Container 
+A simplified look at a container is a set of processes that are isolated from the rest of the system. All the files necessary to run a container are provided from a distinct image. This means that containers are portable and consistent as they move from development, to testing, and finally to production, and you can quickly get a new AWS instance up & running. Here is a sysadmin guide to containers.
+
+Cross-site request forgery (also known as one-click attack, session riding or XSRF)
+A type of malicious exploit of a website where unauthorized commands are submitted from a user that the web application trusts. There are many ways in which a malicious website can transmit such commands; specially-crafted image tags, hidden forms, and JavaScript XMLHttpRequests, for example, can all work without the user's interaction or even knowledge. Unlike cross-site scripting (XSS), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user's browser. In a CSRF attack, an innocent end user is tricked by an attacker into submitting a web request that they did not intend. This may cause actions to be performed on the website that can include inadvertent client or server data leakage, change of session state, or manipulation of an end user's account.
+
+Credential-stuffing attacks
+In which hackers rapidly test email and password combinations at a given site or service. These are typically automated processes that prey especially on people who reuse passwords across multiple sites on the internet. Here is an article.
+
+Cybercrime Attack Map
+https://threatmap.checkpoint.com/ has a live map that shows all cyber attacks going on in real time. 
+
+Cyberheist
+Organized crime penetrating the network of an organization and emptying their bank accounts via the Internet. Also the title of a book by KnowBe4’s CEO Stu Sjouwerman for executives of enterprises explaining the dangers of cybercrime. See this.
+
+Cyberterrorist
+An attacker who is motivated by some idealogy and tries to destroy computers, networks and physical infrastructure like water plants, energy plants and commercial infrastructure like stock markets.
+
+D
+DEP
+Data Execution Prevention. A security feature in the Windows OS which tries to prevent hackers from using buffer overflow attacks.
+
+DKIM (DomainKeys Identified Mail) 
+is an important authentication mechanism to help protect both email receivers and email senders from forged and phishing email. Forged email is a serious threat to all parties in an email exchange. See DKIM.org
+
+DMARC
+Domain-based Message Authentication, Reporting and Conformance (DMARC) is an email-validation system designed to detect and prevent email spoofing. ... DMARC is built on top of two existing mechanisms, Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM). See Wikipedia.
+
+DMR
+Direct Market Reseller, also known as an e-tailer which is a company that sells directly to consumers online without operating storefront operations of any kind.
+
+Directory Traversal Attack (also known as Path Traversal)
+Is an HTTP attack which allows attackers to access restricted directories and execute commands outside of the web server’s root directory.  If user/attacker is authorized by ACL's then an attacker needs is a web browser and some knowledge on where to blindly find any default files and directories on the system.  system32
+https://www.acunetix.com/websitesecurity/directory-traversal/Fix: A Web Vulnerability Scanner crawls your entire website and automatically checks for directory traversal vulnerabilities.
+
+Disinfection
+Cleaning up a PC that is infected with malware. Disinfection can be done automatically by Antivirus, but sometimes needs to be done manually by our Security Response Team.
+
+Disinformation
+False information which is intended to mislead, especially propaganda issued by a government organization to a rival power or the media.  These are also called influence campaigns or manipulation campaigns. Disinformation is often forwarded to friends and family and at that point it is called misinformation.  Russia invented disinformation under the leadership of Joseph Stalin who created a special agency that took propaganda campaigns to w shole new level called Dezinformatsiya.
+
+Distributor
+An IT channel distributor is a business that acts as an intermediary between vendors like KnowBe4,  resellers like VARS or system integrators (SIs) in the distribution of software or hardware. Here is a more detailed definition. 
+
+Disposition [PhishER]
+The way in which something is placed or arranged, especially in relation to other things.  For PhishER, we mean taking "unknown" emails and arranging them into "clean/spam/threat".
+
+Domain Spoof Test (DST)
+A service that KnowBe4 provides, which sends an email to a prospect that is spoofed to come from their own domain. This is not supposed to be able to get through to them. Their mail server needs to be configured so that these emails from the outside that have an inside email address are deleted. Request a free DST here.
+
+Downloader, also Rogue Downloader
+Scam applications often are not the first unwanted program to land on a person’s system. A Downloader, such as Trojan.Zlob infect the system first and then download the misleading application to the computer. Once the downloaded application is installed and ready, the malware that installed it will inform the user that they are infected with a new, previously unknown threat. This can be done through a “balloon message” that appears in the lower right-hand side of the system. The misleading application will then present itself and either pretend to download or run a scan of the system.
+
+Drive-by-download, also called Drive-by-install
+Something bad got installed on a user’s PC without their knowledge or consent. It is a transfer of software from a web server to an unsuspecting user’s computer. It occurs in the background, with no notification, when a user visits a particular web page. A user need only access the web page to be subject to the download. Such downloads usually include malware when some kind of scam or attack is under way. The expression is used in four increasingly strict technical meanings. See Wikipedia for those.
+
+E
+EAC 
+EAC is short for Email Account Compromise, a close relative of BEC. The primary difference is with EAC, criminals target individuals rather than businesses to initiate fraudulent wire transfers.
+
+EEC
+Email Exposure Check. KnowBe4 provides a free Email Exposure Check for prospects. We do a ‘deep search’ in the Internet’s search engines for all email addresses that belong to a certain domain. We are able to look into PDFs, Word and Excel files as well. IT security specialists call it the ‘phishing attack surface’. Customers that buy the GOLD package get sent an EEC every month. The EEC has been upgraded to EEC Pro spring 2018 and delivers more information.
+
+EICAR:
+The EICAR virus (pronounced eye-car) was developed as a sample virus that is used in the IT security industry to see if antivirus is working. It's completely safe, it's only used to test the basic functionality of antivirus.
+
+EOL
+End Of Life. Software industry lingo meaning a product will be retired and no longer supported.
+
+EULA
+End-User License Agreement. (That thing no one ever reads…) A software license agreement is a contract between the “licensor” and purchaser of the right to use computer software. The license may define ways under which the copy can be used, in addition to the automatic rights of the buyer. Many EULAs are only presented to a user as a click-through where the user must “accept” and is then allowed to install the software.
+
+Email Antivirus Scanning
+Scanning enterprise email for antivirus can be done in four (!) different spots.
+
+At an email hosting company, where enterprise email is outsourced
+At the perimeter by a dedicated gateway product
+On the Exchange or Linux mailserver itself, Antivirus Email Security products do this and scan the Exchange Store for malware
+On the workstation, where Antivirus Enterprise Agents can scan incoming email for malware.
+
+Endpoint
+Another word for the workstation that is used by an end-user in an organization. Refers to a computer or device at the end of a network cable. The PC you are reading this from is called an ‘endpoint’ by system administrators. Symantec calls their corporate antivirus Symantec Endpoint Protection (SEP).
+
+Enrich [PhishER]
+Improve or enhance the quality or value of. When adding additional data about reported emails we are giving the admin more at a glance information about what they are looking at, thus we are enriching the messages.
+
+Ethics Policy
+A policy created for employees in an organization which is supposed to be a guide and a reference for said employees that helps them make day-to-day decisions which are “the greatest good for the greatest number”. Also known as a “Code of Ethics”. As opposed to “Acceptable Use Policy” which is more like a Moral Code with hard “survival” rules about do’s and dont’s to keep the organization alive.
+
+Exchange
+Short for ‘Microsoft Exchange Server’ which handles corporate email (and more). There are Antivirus Security Products for Exchange which protect the Exchange server against viruses and spam. MS-Exchange is out there in five versions, 2003, 2007, 2010, 2012 and 2014.
+
+F
+419 Scam or Nigerian letter fraud
+Scams originating from Nigeria are called 419 scams as the number “419” refers to the article of the Nigerian Criminal Code dealing with fraud. Most of the scams are very old, have been used earlier with fax and snail mail, and are now used on the Internet. There is a whole industry in Nigeria around these scams.
+
+Fast Identity Online (FIDO) refers to a set of open authentication standards the enable a service provider to leverage existing technologies for passwordless authentication. FIDO standards such as FIDO2, Universal Authentication Framework (UAF), and Universal Second Factor (U2F) are developed by the FIDO Alliance, an industry consortium of technology leaders such as Apple, Google, HYPR, and Microsoft. These innovators have allied themselves to reduce the tech landscape’s over-reliance on passwords. Solution providers build value atop FIDO standards so that enterprises can quickly and easily deploy FIDO architecture that leverages smartphones for access to services in the way that Common Access Cards (CACs) do in far more secure work environments. FIDO finally makes public key cryptography (PKC) commercially viable whereas before, PKC and biometrics (also a FIDO element) were unrealistic to implement outside of mission-critical settings. The term “FIDO” may refer to the architecture, overall vision, or alliance itself and is gaining momentum with multimillion-user deployments across customer segments, notably in financial services whose enterprises are early FIDO adopters. When a solution advertised as FIDO, it is important to distinguish between FIDO Certified solutions that have undergone rigorous security, interoperability, and scalability testing and “FIDO compliant” or “FIDO supported” claims which are little more than marketing language.
+
+Fake News
+Fake news is the promotion and propagation of news articles via social media. These articles are promoted in such a way that they appear to be spread by other users, as opposed to being paid-for advertising. The news stories distributed are designed to influence or manipulate users’ opinions on a certain topic towards certain objectives.
+
+Feature Complete
+A product build is called feature complete when the product team agrees that functional requirements of the system are met and no new features will be put into the release, but significant software bugs may still exist. This happens at the Beta stage in the Software Development Life Cycle (SDLC).
+
+Flashing
+The process you use to rewrite the contents of EPROM like the BIOS. An EPROM is a read-only memory chip whose contents can be erased and reprogrammed.
+
+Footprinting (also known as reconnaissance)
+Generally refers to one of the pre-attack phases; tasks performed before doing the actual attack. Some of the tools used for Footprinting are Sam Spade, nslookup, traceroute, Nmap and neotrace
+
+G
+GLBA
+The Gramm-Leach-Bliley Act (GLBA, pronounced “glibba”), also known as the Financial Modernization Act of 1999, is a U.S. federal law that requires banks and financial institutions to protect private information of individuals.
+
+Gamification
+Gamification is the addition of gaming features or principles to something that typically does not have a gaming element--in our case, security awareness training and e-learning content. Gamification has been shown to improve user engagement by increasing people’s inherent ambition to compete, achieve, or master. Studies have shown that when people are intrinsically motivated to complete a task, they learn better and retain more information.
+
+Gaslight
+Manipulate (someone) by psychological means into questioning their own sanity. "in the first episode, Karen Valentine is being gaslighted by her husband"
+
+H
+HIBP
+Have I Been Pwned. The name of a service run by Troy Hunt, where you can check if your credentials are part of a data breach. Some KnowBe4 tools like Password Exposure Test integrate with this site.
+
+Ham
+About 90% of email that goes through the internet is spam. In the antispam business, the other (good) 10% is called ‘ham’. (no joke)
+
+Server-Side Request Forgery (SSRF) 
+A type of exploit where an attacker abuses the functionality of a server causing it to access or manipulate information in the realm of that server that would otherwise not be directly accessible to the attacker
+
+Heuristics
+Heuristic comes from the Greek for “find” or “discover”. They are experience-based techniques that help in problem solving. Heuristics are “rules of thumb”, or educated guesses. Antivirus uses heuristics in the form of dynamic pattern assessment to determine if a code sample is malware.
+
+Heuristic Detections
+Antivirus detects malware using signatures, heuristics and behavior.
+
+Honeydoc
+A file on a PC or server that sits equipped with a beacon, waiting to be stolen and then calls home to tell its owner where it is and who stole it.
+
+Honeytrap
+A social engineering trick that makes men interact with a fictitious attractive female online. From old spy tactics where a real female was used.
+
+Hijacker, also called ‘Homepage hijacking’
+Spyware that changes the default homepage someone has, to a site that displays ads, a different search engine, or worse, porn. They are very hard to get rid of for the average consumer.
+
+I
+IC3
+The FBI's Internet Crime Complaint Center. 
+
+ICSA Labs
+ICSA Labs provides vendor-neutral testing and certification for security products and solutions. 
+
+IDN:  
+Internationalized Domain Name - A domain name that contains at least one language-specific set of characters. A "normal" domain name, such as KnowBe4.com, uses only Latin characters (those normal ABCs that America thinks are normal). A domain like KnöwBe4.com (see the "o"?) would be an example of an Internationalized Domain Name.
+
+IPR violation
+An intellectual property rights violation is any infringement of another's Copyright, patent, or trademark.
+
+ItW
+In The Wild. ItW is the name for malware that is supposed to be out there in the wild. Opposed to the ‘Wildlist’ which is the official CURRENT actual list. That list can change every month. Something that is on the Wildlist is ALWAYS ItW but something that is ItW listed doesn’t necessarily have to be in the actual Wildlist.
+
+Ingest [PhishER]
+Take into the body by swallowing or absorbing it. In the case of PhishER, email messages are ingested—taken into— into the system and arrive in the PhishER console for processing. 
+
+J
+JSON
+Once upon a time there was one computer. Then someone built a second one and wanted some code off the first computer. That meant we needed a way to move information without dependencies on the underlying hardware. Since then, there have been many character encoding and interchange standards (ASCII, EBCIDIC, SGML, XML, etc.) that have had their time in the spotlight. For the past few years, JavaScript Object Notation (JSON) has been the most popular. More.
+
+Java Applet
+A separate program that you see inside a browser adding special functionality to a website (HTML page).
+
+K
+Kevin Mitnick
+During the mid-nineties, Kevin Mitnick was the ‘World’s Most Wanted Hacker’, and now is a very successful Fortune 500 Security Consultant: Based on his 30+ years of first-hand experience with hacking and social engineering, KnowBe4 created its Security Awareness Training. Kevin is part owner of KnowBe4. 
+
+Kerberoasting
+At its core, Kerberoasting is a password-cracking attack in which credentials are stolen from memory and cracked offline. Key Points. Kerberoasting is a post-exploitation attack that extracts service account credential hashes from Active Directory for offline cracking
+
+Kernel Level
+The foundation of the Operating System is called the Kernel. It provides basic, low-level services like hardware-software interaction and memory management. If a product works at the kernel level, this has many advantages.
+
+Keylogger aka Keystroke logger
+A form of malware or device that observes what someone types on their keyboard and sends this data back to the bad guys. There are several ways to do this, using either software or hardware.
+
+L
+LAMP
+LAMP is a software bundle, assembled to make an open source web platform consisting of Linux, Apache, MySQL and Perl/PHP/Python.
+
+LMS
+A Learning Management System (LMS) is software for the administration, documentation, tracking, reporting and delivery of e-learning education courses or training programs. Organizations can have their own LMS in-house or use a cloud-based LMS like Knowbe4 provides.
+
+M
+
+MTBF
+Mean TIme Between Failure. Short for mean time between failures, the average time a device will function before failing. MTBF ratings are measured in hours and indicate the sturdiness of hard disk drives and printers. Typical disk drives for personal computers have MTBF ratings of about 500,000 hours. This means that of all the drives tested, one failure occurred every 500,000 hours of testing. See Webopedia for more.
+
+Managed Service
+A Service Provider (MSP) that maintains all the computers and networks for a company, often via the Internet. See Cloud Computing.
+
+Media Drop
+Technique used by hackers who load malware on a USB drive, CD/DVD, or other readable form of media, and then leave the infected media where it can easily be found. In some cases, thieves actually give the media away at public venues or trade shows. Once the victim loads the drive or disk, the malware does its work and will allow the hacker to do a number of things, including take remote control of the victim’s computer.
+
+Misinformation
+False or inaccurate information, especially that which is deliberately intended to deceive. Often forwarded to friends and family, not knowing it is false.  See Disinformation.
+
+N
+NADM
+Never A Dull Moment. The motto of the business we are in. 
+
+NAS
+Network Attached Storage. A network hardware technology that uses a strand-alone storage device that is dedicated to centralized disk storage.
+
+NAC
+Network Access Control. A piece of technology that controls access to a network.
+
+NAP
+Network Access Protection is a Microsoft technology for controlling network access of a computer host based on the system health of that computer. With NAP, system admins can define policies for system health requirements. I.e. are the most recent operating system updates installed? Are the anti-virus software definitions updated? Has that computer a firewall installed and enabled? You get the idea. Computers not in compliance with system health requirements have restricted or no access to the network.
+
+NCSAM
+National Cyber Security Awareness Month - October
+
+NW3C
+National White Collar Crime Center. 
+
+NESSUS
+Software being used to scan a network from the outside in to search for vulnerabilities. KnowBe4 uses Nessus for the Vulnerability Scan service we provide.
+
+O
+ON-ACCESS Scanning
+Malware scans that are monitoring the system in real-time for any changes and will prevent immediate infection.
+
+ON-DEMAND Scanning, also called ‘drive scan’
+Malware scans that are set to run on a scheduled basis, like 3am every night.
+
+ORGANIZATIONAL UNIT (OU) 
+A word related to Active Directory is "OU" or "Organizational Unit" since we allow our users to specify what they want to synchronize by both security group and OU. Here is a good definition: An organizational unit (OU) is a subdivision within an Active Directory into which you can place users, groups, computers, and other organizational units. You can create organizational units to mirror your organization's functional or business structure. See Active Directory "AD".
+
+P
+P/E Ratio
+The price-to-earnings ratio, or P/E ratio, helps you compare the price of a company’s stock to the earnings the company generates. The P/E ratio is derived by dividing the price of a stock by the stock’s earnings. Think of it this way: The market price of a stock tells you how much people are willing to pay to own the shares, but the P/E ratio tells you whether the price accurately reflects the company’s earnings potential, or it’s value over time. If a company’s stock is trading at $100 per share, for example, and the company generates $4 per share in annual earnings, the P/E ratio of the company’s stock would be 25 (100 / 4). To put it another way, given the company’s current earnings, it would take 25 years of accumulated earnings to equal the cost of the investment. More here.
+
+P2P
+Peer-To-Peer software allows end-users to up- and download software (movies, music, games) via a distributed computing architecture, not using centralized servers. There is a significant risk as child porn is also moving through these networks, and can result in SWAT teams busting down your door if a neighbor illegally piggybacks on your Wi-Fi. (no joke).
+
+PCI
+Payment Card Industry
+
+PCI Security Standards Council
+Organization that publishes standards (rules) on how to securely handle credit card processing.
+
+PCI-DSS
+The PCI Data Security Standard – a document published by the Payment Card Industry; it lists all the requirements for securely handling credit cards and credit card information. Organizations that accept credit cards need to be PCI compliant. This includes Security Awareness Training and many other requirements.
+
+PHI
+Protected Health Information. PHI is all recorded information about an identifiable individual that relates to that person’s health, health care history, provision of health care to an individual, or payment to health care. The U.S. Health Insurance Portability and Accountability Act (HIPAA) governs the protection of Private Health Information
+
+PMD
+Pretty Much Done. One of our old colleagues’ favorite expressions, and indicated that the final product might still be months away from completion. :-)
+
+POP
+Period of Performance. How long the customer has paid for maintenance on their product.
+
+PSD
+Product Services Delivery. The team, part of the Accounting Department, that processes orders and does Roll-Out calls for KnowBe4 Products with the customers. PSD also refers to the in-house process that routes orders from quote acceptance through the delivery process.
+
+PST
+Phishing Security Test. This is a simulated phishing attack done by KnowBe4 on email addresses that a prospect or customer upload to our site. We have dozens of templates that existing customers can use on their employees. You can do a one-time free PST to all your employees
+
+Patch Tuesday
+Patch Tuesday is the second Tuesday of each month, the day on which Microsoft releases security patches. That week, system administrators need to do the testing of these patches in their own environments and then deploy the patches which usually requires a reboot. Sometimes systems are mission critical and cannot be rebooted, which causes them to stay vulnerable and then get infected with a zero-day threat.
+
+Patch Thursday
+Cisco will release patchs on Thursdays.
+
+Performance Testing
+(IEEE) Functional testing conducted to evaluate the compliance of a system or component with specified performance requirements.
+
+Phish-prone Percentage
+A term coined by KnowBe4 that indicates the percentage of employees that are prone to click on dangerous phishing links. You can find out what the Phish-prone percentage of your organization is with this free test. 
+
+PhishER
+A KnowBe4 product for managing potentially malicious email messages reported by users. Key features include: prioritization, disposition, automated workflows, automated responses, SIEM integration, data enrichment.
+
+Phishing
+Phishing is the process in which bad guys try to trick you into giving out sensitive information or taking a potentially dangerous action, like clicking on a link or downloading an infected attachment. They do this using emails disguised as contacts or organizations you trust so that you react without thinking first. It’s a form of criminally fraudulent social engineering. Also see Spear Phishing.
+
+Phishing Attack Surface
+Are you aware that many of the email addresses of your organization are exposed on the Internet and easy to find for cybercriminals? With these addresses they can launch spear phishing attacks on your organization. This type of attack is very hard to defend against, unless your users get next-generation security awareness training. IT Security specialists call it your ‘phishing attack surface‘. The more email addresses that are exposed, the bigger your attack footprint is, and the higher the risk. It’s often a surprise how many of your addresses are actually out there, whose, and where they were found. Here is a datasheet with some more information.
+-this may be a lie
+
+Phrase techniques
+Methods of producing strong passwords. One technique involves creative transformations for a sentence so that, for example, “I never eat rye bread” becomes iN3V3RtaeWRYdearb
+
+Point-of-failure Training
+An end user that has fallen for a phishing test and clicked on the link or opened up an attachment is given a short remedial training on the spot to make sure they understand the risks and stop doing that. Relying on just this tactic is not sufficient for truly effective security awareness training.
+
+Point Release
+A minor software release that increments with a decimal point. I.e. from V3.0 to V3.1
+
+Popup
+Small web browser Window that literally pops up over the browser window you are looking at. Our training uses this technology to present the user with their training session so they need to turn popup blockers off for our website.
+
+Pretexting
+The act of creating an invented scenario in order to persuade a targeted victim to release information or perform some action. Pretexting can also be used to impersonate people in certain jobs and roles, such as technical support or law enforcement, to obtain information. It usually takes some back-and-forth dialogue either through email, text or the phone. It is focused on acquiring information directly from the actions taken by the targets, who are usually in HR or Finance. 
+
+Prioritize [PhishER]
+Determine the order of dealing with a series of items according to their relative importance. Different organizations have a different idea of priority; some might think digging into threats is priority #1, others might feel that responding to end users letting know that PO they reported is *not* a threat is more important. In either case it's important to get rid of the junk that doesn't matter so the important items are addressable.
+
+Privacy Policy
+A privacy policy is a legal document that discloses some or all of the ways a party gathers, uses, discloses and manages a customer’s data. There is a lot of background data about this on Wikipedia. 
+
+Process Herpaderping
+A technique that can be used to evade security products including Windows Defender. The evasion works because the contents of the file that created the process object on the system are modified before the insertion of the thread. Therefore when the process initiates Windows Defender cannot determine if should allow execution or flag the process as malicious since the initial binary which started the process doesn’t match to what is actually executed.
+
+Propaganda
+Information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view. Interestingly enough, although it has a negative connotation today, it has ostensibly noble origins. In 1622 in an effort to spread Christianity around the world, Pope Gregory XV established in Rome the Sacred Congregation of the Propagation of the Faith, to be entrusted to a handpicked group of cardinals. Just ane xample of how the meaning of words can radically change over time.
+
+PROM
+Programmable Read Only Memory. A computer chip with content that can be re-written from the outside.
+
+Provisionable
+The providing or supplying of something, especially of food or other necessities. arrangement or preparation beforehand, as for the doing of something, the meeting of needs, the supplying of means, etc.
+
+Q
+QBR
+Quarterly Business Review. A meeting of a company’s execs to determine strategy.
+
+Quality Control
+The operational techniques and procedures used to achieve quality requirements. This is typically handled during the development process.
+
+R
+RCA Root Cause Analysis.  Asking "Why" a number of times until you get to the bottom of an issue. Having the correct and hence the final "Why", you can fix the situation.
+
+RBL
+RBL stands for Realtime Blackhole Listing. RBLs are used for Antivirus Exchange and Antivirus Gateway. It’s a list of domains that are blocked because they are a source of spam. You can find a complete definition of RBL at Webopedia.
+
+RMA
+Return Materials Authorization. As in: “Shipments without a valid RMA number will not be accepted."
+
+RSN
+‘Real Soon Now’. A technical term that software developers use to indicate when they expect to deliver shippable code. Also see PMD. :-)
+
+RTM
+Released To Manufacturing. The day that the final code is shipped out the door to the factory to be duplicated. In KnowBe4’s case, the day that we released the final product on our website.
+
+Reactive and Proactive Testing (RAP)
+Virus Bulletin is the world’s most prestigious antivirus lab. Apart from their VB100 certification, they have another interesting test called RAP. It’s for “Reactive and Proactive”, and helps you form an impression of the heuristic -and- generic proactive detection capability of security software products – in particular how well products perform against malware that appears after vendors have submitted their products to Virus Bulletin for testing. They create a quadrant a few times a year, and compare all products they have tested. The antivirus industry is not promoting this website, as it’s not a pretty picture.
+The RAP system measures simple static detection rates, testing against common malware samples first seen by the VB lab team within ten days of running each stage of the test.
+The "Reactive" measure is the average of three test runs against samples seen in the ten days before the test date, allowing the products to use the latest updates and with full access to any cloud-based resources and reputation systems. For the "Proactive" measure, products and updates are frozen, then products are run offline, without access to cloud systems, against samples seen in the ten days following freezing.
+The RAP test aims to give an indication of how well product developers are able to keep up with the incoming flood of new malware using their standard file detection methods (including heuristic rules), and should also give some idea as to how much different products rely on cloud-based systems to supplement client-side technologies.
+
+Rainbow Tables
+A password attack that uses a really large set of of hashes that were generated from almost every possible password.
+
+RanSim 
+RanSim stands for "Ransomware Simulator". KnowBe4 released a free tool in October 2016 that people can download to check if their antivirus/endpoint protection is effective against ransomware infections. It takes several scenarios and emulates the things that real ransomware would do in a non-destructive way. You can find RanSim here.
+
+Ransomware
+Ransomware denies access to a device or files until a ransom has been paid. Also called Cryptoware. Ransomware for PC's is malware that gets installed on a user’s workstation using a social engineering attack where the user gets tricked in clicking on a link, opening an attachment, or clicking on malvertising.
+Once the malware is on the machine, it starts to encrypt all data files it can find on the PC itself and on any network shares the PC has access to. Next, when a user wants to access one of these files they are blocked and the system admin finds two files in the directory that indicate the files are taken ransom, and how to pay the ransom to decrypt the files. There are a number of free ransomware decryptors available, however it's a constant battle with hackers then upgrading strains to get past decryption methods. There are many strains of ransomware, two infamous ones are CryptoLocker and CryptoWall. Many more exist and new ransomware strains are released regularly.
+
+Real Time Protection
+Protecting a PC as it happens, as opposed to a scheduled scan that is done every 24 hours. See ‘Active Protection, ‘On Access protection.’
+
+Regression Testing
+(NIST) Rerunning test cases which a program has previously executed correctly in order to detect errors spawned by changes or corrections made during software development and maintenance.
+
+Renewal
+Used mainly in the IT space to indicate that a customer extends their subscription for another year.
+
+Remote Console
+System Administrators often manage several geographically dispersed sites. In those cases, they need software to be able to manage the remote site as if they were physically present. For that, they use what is called a ‘remote console’. For instance, a remote console allows them to manage a machine or a whole network when they are in New York and the physical network being managed is in Atlanta.
+
+Removal
+Deleting malware from a PC. See ‘Disinfection’.
+
+Reporting
+In the context of KnowBe4, reporting means the section of the cloud back-end where customers can see which employees have started their training, finished it or have not even started it. Also which Phishing security tests were sent, who opened, who clicked and a host of other data related to this.
+
+Resident Virus
+Malware that is loaded in random access memory and is able to interrupt an Operating System function and alter it to do damage.
+
+Rogue, also Rogue Scanner, rogue anti-spyware, rogue anti-malware or scareware
+Rogue security software is a form of computer malware that deceives or misleads users into paying for the fake or simulated removal of malware. Rogue security software, in recent years, has become a growing and serious security threat in desktop computing. It is a very popular social engineering tactic and there are literally dozens of these programs.
+
+Ruby on Rails
+Often shortened to Rails or RoR, is an open source web application framework for the Ruby programming language. It is intended to be used with an Agile development methodology that is used by KnowBe4 for rapid development.
+
+S
+SAQ
+‘Self Assessment Questionnaire’. A form that merchants which accept credit cards complete to evaluate their compliance with PCI SCC rules. There are different SAQs, depending on the way(s) in which the merchant processes transactions and the transaction volume.
+
+SHI Company
+They are a DMR, a Direct Market Reseller also known as an e-tailer which is a company that sells directly to consumers online without operating storefront operations of any kind.
+
+SIM card
+A subscriber-identity-module or alternatively a subscriber-identification-module which is a small card that fits in your smartphone and secure they key and identity of the owner. 
+
+SPF (Sender Policy Framework) is a simple email-validation system designed to detect email spoofing by providing a mechanism to allow receiving mail exchangers to check that incoming mail from a domain comes from a host authorized by that domain's administrators. See Wikipedia
+
+SSID
+(Service Set IDentifier) The name assigned to a Wi-Fi (wireless) network. All devices in the network must use this case-sensitive name to communicate over Wi-Fi, which is a text string up to 32 bytes long. Out of the box, wireless routers and access points have a default SSID, which may be the manufacturer's name, such as "linksys" or "netgear" or simply "default." 
+
+SCORM
+Sharable Content Object Reference Model (SCORM) is a collection of Department of Defense created standards and specifications for web-based e-learning. It defines communications between client side content and a host system which is an LMS. (See LMS) KnowBe4’s courseware is SCORM compliant.
+
+SDK
+Software Development Kit. A set of development tools that allows a software engineer to create an application. An Antivirus SDK allows someone to create their own antimalware software product, and pay the developer for the use of the SDK.
+
+SKU
+Stock Keeping Unit. A number to specify a separate product.
+
+SLA
+Service Level Agreement. A service level agreement (SLA) is a commitment between a service provider and a client. Particular aspects of the service – quality, availability, responsibilities – are agreed between the service provider and the service user. Internal SLAs are used to maintain a level of service internally, with an organization, rather than with an external party. Internal SLAs may apply to help desk services, network or application availability and performance, and any other internal processes. 
+
+SME, SMB
+Small and Medium Enterprises (usually up to 500 seats). Also called SMB (Small and Medium Business) Some industry analysts go up to 1,000 seats before they call it ‘Large Enterprise’.
+
+SME
+Subject Matter Expert
+
+SMTP
+Simple Mail Transfer Protocol (SMTP) is an Internet standard for e-mail transmission, and is the #1 protocol in use today. E-mail servers and other e-mail transfer agents use SMTP to send email.
+
+SOAR
+Security Orchestration, Automation and Response defined: a coordination of automated security tasks across connected security applications and processes. 
+
+SOW
+Statement Of Work. An SOW is a document, routinely employed in the field of project management, which defines project-specific activities, deliverables and their respective timelines, all of which form a contractual obligation upon the vendor in providing services to the client, and is agreed upon by the parties before the work starts. 
+
+Scrum
+A method intended for management of software development projects, it can also be used to run software maintenance teams, or as a general project/program management approach. KnowBe4 uses this method. See Wikipedia
+
+Shipstopper (Bug)
+A bug found that is severe enough to stop the product from shipping.
+
+Sprint
+A term used in ‘agile’ software development, a method that KnowBe4 uses. A period of a month after which a deliverable product is ready for shipping. During this sprint, a list of items called ‘backlog’ is ‘burned down’ to completion. See ‘Backlog’ and ‘Burndown’.
+
+SQL Injection Attack
+SQL injection is a hacker technique that exploits a security vulnerability occurring in the database of an application. The vulnerability is present when user input fields are not checked well.
+
+Stakeholder
+Stakeholders include all those organizations, networks and private groups which partner with host personnel and are able to influence the objectives the organization.
+
+Stress Testing
+(IEEE) Testing conducted to evaluate a system or component at or beyond the limits of its specified requirements.
+
+Stuxnet
+Malware created by the U.S and Israel with the express goal to destroy Iran’s uranium enrichment facility in Natanz. It escaped and is now used by bad actors to attack sites. More Here
+
+System Monitors
+Specialized software modules that look at the PC and make sure nothing gets changed by malware, and sometimes are able to either block changes or revert the system to its original state. See ‘Active Protection’.
+
+T
+TOS
+Terms Of Service (abbreviated as “ToS” or “TOS”) are rules by which one must agree to abide by in order to use a service. Usually, such terms are legally binding. Terms of service can cover a range of issues, including acceptable user behavior online, a company’s marketing policies, etc. Some organizations, such as Yahoo and Facebook, can change their terms of service without notice to the user base. Here is Knowbe4's TOS
+
+Tabnabbing 
+Uses browser tabs to impersonate legitimate websites and create fake login pages that trick victims into revealing private information. Tabnabbing works when you have two or more tabs open in a web browser. When a tab is left unattended for several minutes, a tabnabber can redirect the site in the unattended tab to a different, malicious login site.
+
+Tailgating 
+A method used by social engineers to gain access to a building or other protected area. A tailgater waits for an authorized user to open and pass through a secure entry and then follows right behind.
+
+TELNET 
+Telnet was developed in 1969 and one of the first Internet standards. The name stands for "teletype network". Telnet is a communications protocol for applications that use 2-way interactive text, using what is called a "virtual terminal" connection. Telnet runs on top of the Transmission Control Protocol (TCP).
+Historically, Telnet provided access to a command-line interface (usually, of an operating system) on a remote computer. However, because of serious security concerns when using Telnet over an open network such as the Internet, its use for this purpose has waned significantly in favor of SSH.
+The term telnet is also used to refer to the software that implements the client part of the protocol. Telnet client applications are available for virtually all computer platforms. Telnet is also used as a verb. To telnet means to establish a connection with the Telnet protocol as in "To change your password, telnet to the server, log in and run the passwd command." More at WikiPedia
+
+Test Harness
+(IEEE) A software module used to invoke a module under test and, often, provide test inputs, control and monitor execution, and report test results.
+
+Test Suite
+A collection of test cases used to validate the behavior of a product. There may be several Test Suites for a particular product for example. In most cases however a Test Suite is a high level concept, grouping together possibly hundreds or even thousands of test cases related by what they are intended to test.
+
+Tower Dump
+Many law enforcement agencies use a surveillance tactic called “tower dump.” The method gives police access to “identity, activity and location” data of users and makes use of multiple [cell phone] towers, and wireless providers, and can net information from thousands of phones. Records show that at least 25 police departments own a Stingray device – which essentially operates as a fake cell phone tower in order to siphon data from nearby phones that connect to it. This was the method that ultimately caught Kevin Mitnick.
+
+Tradecraft
+The word "tradecraft" is most often associated with spies. But hackers hackers and social engineers also have their tradecraft: a set of techniques they use to get illegal access to hardware, software, or deceive humans.
+
+Trigger
+A condition that causes a virus payload to be executed, usually occurring through user interaction (e.g., opening a file, running a program, clicking on an e-mail file attachment).
+
+Trojan
+A Trojan horse (shortened to trojan), is non-self-replicating malware that appears to perform a desirable function for the user but instead facilitates unauthorized access to the user’s computer system. The term is derived from the Trojan Horse story in Greek mythology. It is the most prevalent form of malware in the timeframe 2010-2014, well over 50% of all malware are Trojans.
+
+Typo Generator
+A software tool to generate a list of typos and common misspellings, for instance for domain names. (i.e. www.goofle.com) These domain names are then used to create a perfect copy of the original, and users tricked into leaving confidential information. This is only one example of typo generator use, many more are possible.
+
+U
+URL shortening 
+A method of reducing the size and complexity of web URLs, mainly for ease of use. However, URL shortening also disguises a website’s real domain name, and hinders detection of known malicious sites or destinations.
+
+USB-Stick Trap
+A USB memory stick often used for penetration tests, with malware on it that exposes the network to the attacker. Also called Thumb-drive. The drive is left at common areas like a parking lot or the rest room, and had a label that make the user want to know more, e.g. “Q1 Layoff List”.
+
+Unit Testing
+Testing of a software module for typographic, syntactic, and logical errors, for correct implementation of its design, and for satisfaction of its requirements. Also called component testing.
+
+Update or migration
+A software ‘update’ is usually a patch. A patch is a piece of software designed to fix problems with a computer program or its supporting data. It can include fixing security vulnerabilities and other bugs, and improving the usability or performance.
+
+Upgrade or refresh
+The term ‘upgrade’ refers to the replacement of a product with a newer version of the same product. In software, it means a replacement with a newer or better version, in order to bring the system up to date or to improve it features. See (and contrast with) ‘Update’ above.
+
+Usability Testing
+Tests designed to evaluate the machine/user interface. Are the communication device(s) designed in a manner such that the information is displayed in an understandable fashion enabling the operator to correctly interact with the system?
+
+V
+Value-Add
+Employing a new feature whether hardware, software or peopleware, that improves usablility for a customer/client.
+
+VAR
+A value-added reseller (VAR) is a company that adds features or services to an existing product, then resells it (usually to end-users) as an integrated product or complete "turn-key" solution.
+
+VB100
+This stands for “Virus Bulletin 100% Pass”. It means an Antivirus product catches all the malware that is on the WildList and also has NO False Positives. Getting awarded the VB100 is important in the industry and shows a product has attained a certain quality level. It does not mean it catches 100%, no antivirus product does. Here is the Virus Bulletin website.
+
+VDI
+A Virtual Desktop Infrastructure (VDI) allows a user’s desktops and applications to run in a private virtual machine hosted on servers in a data center rather than locally on the user’s PCs. It’s technically complex and expensive, but it allows users to access their personalized desktop from any PC; and makes life easy for admins.
+
+VEC
+Vendor Email Compromise. This is a variety of business email compromise (see BEC) attack in which attackers gain access to email accounts at a company in the supply chain, and then use the accounts to target that company’s customers.
+
+Virus, also called ‘File Infector’, or ‘File Virus’
+A computer virus is a computer program that can copy itself and infect a computer. The term “virus” is also commonly but erroneously used to refer to other types of malware, adware, and spyware programs that do not have the reproductive ability. Since 2009, viruses in their traditional form are less than 10% of total malware. Microsoft in 2010 estimated it was only 4%. A true virus can only spread from one computer to another (in some form of executable code) when its host (infected file) is taken to the target computer; for instance because a user sent it over a network or the Internet, or carried it (via sneakernet) on a removable medium such as a floppy disk, CD, DVD, or USB drive. Viruses can increase their chances of spreading to other computers by infecting files on a network file system. See ‘Worm’. See Wikipedia.
+
+Virus Bulletin
+Virus Bulletin is the world’s first and foremost virus and malware authority, and the go-to place for the antivirus industry.
+
+They do three things: 1) a monthly magazine, 2) an annual conference and 3) bimonthly product certifications.
+1) Their name comes from the first thing they started with in 1989: a magazine dedicated to providing PC users with a regular source of intelligence about computer malware, its prevention, detection and removal, and how to recover programs and data following an attack. Virus Bulletin quickly became the leading specialist publication in the field of malware and spam and is today produced in an online format.
+2) VB Conference. They first VB conference was in 1991 and the event has become a major highlight of the anti-malware calendar. They present factual information, demonstrate defensive procedures and countermeasures, and provide a platform for experts share their research and set new standards.
+3) “VB100″ certification
+For many years, Virus Bulletin has carried out independent comparative testing of anti-malware products. The unique VB100 certification is widely recognized within the industry. Virus Bulletin tests anti-malware products free of charge and, unlike other certification schemes, does not allow re-testing – performances are reported exactly as they are found.
+
+This third function is very interesting. Their VB100 stands for “Virus Bulletin 100% Pass”. It means an Antivirus product catches all the malware that is on the WildList (a varying list of around 800 malware samples that are ‘in the wild’, put together by the Virus Bulletin WildList committee. AV products are expected to catch all samples that are in the WildList), and also has NO False Positives. Getting awarded the VB100 is important in the AV industry and shows a product has attained a certain quality level. It does not mean it catches 100%, no antivirus product does.
+Virus Definitions, abbreviated to ‘Defs’, also called ‘Patterns’ or ‘Signatures’
+The database of virus signatures (detections, patterns) that allows an antivirus product to recognize and disinfect viruses. These definitions are created by an AV Lab team and send to PC’s running that Antivirus very regularly.
+
+Virustotal
+Virustotal is a website that delivers a service which analyzes suspicious files and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware detected by about 70 different antivirus companies that scan the file so you basically get the opinion of many different security companies at once. Both good guys and bad guys use Virustotal. The bad guys send their malware up there to see if it gets caught by antivirus engines. It's got free and paid license versions and is owned by Google. You can find them here.
+
+Voicemail overloading 
+Spamming over Internet telephony. Much like getting spam email, a voice over Internet Protocol (VoIP) user can get junk voicemails. Spammers simply send a voicemail messages to thousands of IP addresses at a time.
+
+W
+Wake-on-LAN
+A Wake-on-LAN (WoL) is a networking standard that allows a computer to be turned on or awakened by a network message.  That message is usually sent to the target computer by a program executed on a device connected to the same local area network, could even be an admin's smartphone. This technology can also be used in Wide Area Networks, and even Wi-Fi, a standard called Wake on Wireless LAN (WoWLAN) More about this at Wikipedia.
+
+Warware
+Malcious software created by the military and/or intelligence agency to cause damage to an adversary’s infrastructure. Stealthy to the extreme and often does not get detected for years. Normal antivirus products seem to not find this type of code. Stuxnet is a good example.
+
+web-based skimming malware attack (Also known as magic card attack)
+Card skimmer that is hidden in social media buttons embedded in websites-.svg file traffic hidden from site owner
+
+Web, How it Works
+I saw this post on twitter with a fun and educational infographic that shows it's quite a complicated affair where lots of things can go wrong.  Here is the infographic, and if you click on it, it will enlarge: https://blog.knowbe4.com/what-happens-when-you-type-in-a-url-in-an-address-bar-in-a-browser
+
+Web Filtering
+Stand-alone software or an appliance (hardware+software) that blocks access to specific Internet websites. A survey done by KnowBe4 shows that system administrators want web filtering on their network for the following reasons:
+
+Block access to malware sites
+Block access to inappropriate or damaging sites
+Keep users “on task” meaning productivity
+Adding another layer of defense second to AV
+Reduce network bandwidth
+Keeping HR happy
+Westcoast Labs
+
+A commercial organization that tests AV products to see if those products catch all the samples in the WildList. If a product gets all the samples, a certification gets awarded.
+
+WildList (also abbreviated as WL)
+A varying list of around 800 malware samples that are ‘in the wild’, put together by the Virus Bulletin WildList committee. AV products are expected to catch all samples that are in the WildList.
+
+Windows System Files
+System Files are the files that make up the Operating System. These files are protected from deletion or infection by System File Protection (WFP) in Windows 2000, renamed to Windows File Protection (WFP) in Windows XP, and then to Windows Resource Protection (WRP) in Vista and later. WRP introduces protection of the registry.
+
+Windows Update
+A free service from Microsoft that regularly updates your PC with the latest bugfixes and security patches and then reboots the PC. For consumers it is highly recommendable to have this set on automatic. Microsoft does this on the second Tuesday of the month, called Patch Tuesday. Businesses should use their own centralized update server, after they test the patches in their environment for compatibility issues.
+
+Workstream (security workstream)
+OK, We are going from generic to specific here for this definition. First, a workstream (also known as workflow) is a core area of an activity or project. It's a core process, it can be big and it can be small, depending on where you look. Here is an example to make this a bit more real. If you are planning for a wedding, that's a project. It has a start and end date, it would involve multiple stakeholders and many workstreams. An important one is selecting a caterer. In this instance the workstream would be named ‘Catering’ which is the core process. The activities within this workstream would be the following:
+
+Meet with caterer
+Plan 5 course meal
+First tasting session
+Second tasting session
+Finalize Menu
+Now, this is a workstream that has a start and a stop. In business, this is a continuous process or flow. A workstream example in KnowBe4 would be the core process from a quote to a PO to an invoice and deploying the platform. Now, in different departments , they have their own workstreams and many times dozens of them. 
+
+The security team has a series of workstreams as well, and in the Security Operations Center (See SOC) one of those is handled by the Incident Response team which receives phishing email reports. The whole process of an employee seeing a phishing email, clicking the PAB, this being received in PhishER, looked at by an analyst, and then processed is a great example of a security workstream.  If an organization does not have this security workstream, they should!
+
+Z
+ZBB
+Zero Bug Bounce. A milestone in software development when all the known bugs are fixed and the bug count drops to zero. Usually, the next day a few more bugs are found, so the bug count “bounces” up from zero. Indicator the product is nearly ready to ship.
+
+Zerologon
+A vulnerability in the cryptography of Microsoft's Netlogon process that allows the attack against Microsoft Active Directory domain controllers, making it possible for a hacker to impersonate any computer, including the domain controller.
